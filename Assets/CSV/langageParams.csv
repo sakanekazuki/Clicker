@@ -1,0 +1,539 @@
+	JP		EN		TW		KOR		CN	
+	覚醒名	説明文	覚醒名	説明文	覚醒名	説明文	覚醒名	説明文	覚醒名	説明文
+	初めの一歩	ユグドラシルの葉の効率が2倍になる	First Steps	Yggdrasill's Leaf are 2 times more efficient	最初的一步	世界之樹的葉子的效率提高了2倍	첫걸음	위그드라실의 잎사귀의 효율이 2배 증가	最初的一步	世界之树的叶子的效率提高了2倍
+	緑の翼	ユグドラシルの葉の効率が2倍になる	Green Wings	Yggdrasill's Leaf are 2 times more efficient	綠色的翅膀	世界之樹的葉子的效率提高了2倍	녹색의 날개	위그드라실의 잎사귀의 효율이 2배 증가	绿色的翅膀	世界之树的叶子的效率提高了2倍
+	地を這う者	ユグドラシルの葉の効率が2倍になる	Earth Crawler	Yggdrasill's Leaf are 2 times more efficient	在地球上爬行的人	世界之樹的葉子的效率提高了2倍	땅을 기어가는 자	위그드라실의 잎사귀의 효율이 2배 증가	在地球上爬行的人	世界之树的叶子的效率提高了2倍
+	大地の贈り物	ユグドラシルの葉の効率が2倍になる	Gift from the Earth	Yggdrasill's Leaf are 2 times more efficient	大地的禮物	世界之樹的葉子的效率提高了2倍	대지의 선물	위그드라실의 잎사귀의 효율이 2배 증가	大地的礼物	世界之树的叶子的效率提高了2倍
+	自然の調和者 	ユグドラシルの葉の効率が3倍になる	Harmonizer of Nature	Yggdrasill's Leaf are 3 times more efficient	自然的和諧者	世界之樹的葉子的效率提高了3倍	자연의 조율자	위그드라실의 잎사귀의 효율이 3배 증가	自然的和谐者	世界之树的叶子的效率提高了3倍
+	聖霊の友	ユグドラシルの葉の効率が2倍になる	Spirit's Friend	Yggdrasill's Leaf are 2 times more efficient	精神的朋友	世界之樹的葉子的效率提高了2倍	성령의 친구	위그드라실의 잎사귀의 효율이 2배 증가	精神的朋友	世界之树的叶子的效率提高了2倍
+	風の翼	ユグドラシルの葉の効率が5倍になる	Wind Wings	Yggdrasill's Leaf are 5 times more efficient	風的翅膀	世界之樹的葉子的效率提高了5倍	바람의 날개	위그드라실의 잎사귀의 효율이 5배 증가	风的翅膀	世界之树的叶子的效率提高了5倍
+	光の導き手	ユグドラシルの葉の効率が2倍になる	Guide of Light	Yggdrasill's Leaf are 2 times more efficient	光明的嚮導	世界之樹的葉子的效率提高了2倍	빛의 인도자	위그드라실의 잎사귀의 효율이 2배 증가	光明的向导	世界之树的叶子的效率提高了2倍
+	聖なる力	ユグドラシルの葉の効率が10倍になる	Sacred Power	Yggdrasill's Leaf are 10 times more efficient	神聖的力量	世界之樹的葉子的效率提高了10倍	신성한 힘	위그드라실의 잎사귀의 효율이 10배 증가	神圣的力量	世界之树的叶子的效率提高了10倍
+	鋼鉄の意志	ユグドラシルの葉の効率が2倍になる	Will of Steel	Yggdrasill's Leaf are 2 times more efficient	鋼鐵的意志	世界之樹的葉子的效率提高了2倍	강철의 의지	위그드라실의 잎사귀의 효율이 2배 증가	钢铁的意志	世界之树的叶子的效率提高了2倍
+	魔法の守護者	ユグドラシルの葉の効率が2倍になる	Guardian of Magic	Yggdrasill's Leaf are 2 times more efficient	魔法的守護者	世界之樹的葉子的效率提高了2倍	마법의 수호자	위그드라실의 잎사귀의 효율이 2배 증가	魔法的守护者	世界之树的叶子的效率提高了2倍
+	黄金の守護者	ユグドラシルの葉の効率が2倍になる	Guardian of Gold	Yggdrasill's Leaf are 2 times more efficient	黃金的守護者	世界之樹的葉子的效率提高了2倍	황금의 수호자	위그드라실의 잎사귀의 효율이 2배 증가	黄金的守护者	世界之树的叶子的效率提高了2倍
+	魂の収集者	ユグドラシルの葉の効率が5倍になる	Souls Gatherer	Yggdrasill's Leaf are 5 times more efficient	靈魂的收集者	世界之樹的葉子的效率提高了5倍	영혼 수집가	위그드라실의 잎사귀의 효율이 5배 증가	灵魂的收集者	世界之树的叶子的效率提高了5倍
+	神秘の探求者	ユグドラシルの葉の効率が2倍になる	Seeker of Mystery	Yggdrasill's Leaf are 2 times more efficient	神秘事物的探索者	世界之樹的葉子的效率提高了2倍	신비의 탐구자	위그드라실의 잎사귀의 효율이 2배 증가	神秘事物的探索者	世界之树的叶子的效率提高了2倍
+	時間の支配者	ユグドラシルの葉の効率が2倍になる	Ruler of Time	Yggdrasill's Leaf are 2 times more efficient	時間的統治者	世界之樹的葉子的效率提高了2倍	시간의 지배자	위그드라실의 잎사귀의 효율이 2배 증가	时间的统治者	世界之树的叶子的效率提高了2倍
+	不滅の意志	ユグドラシルの葉の効率が2倍になる	Immortal Will	Yggdrasill's Leaf are 2 times more efficient	不朽的意志	世界之樹的葉子的效率提高了2倍	불멸의 의지	위그드라실의 잎사귀의 효율이 2배 증가	不朽的意志	世界之树的叶子的效率提高了2倍
+	宇宙の探求者	ユグドラシルの葉の効率が2倍になる	Explorer of Universe	Yggdrasill's Leaf are 2 times more efficient	宇宙的探索者	世界之樹的葉子的效率提高了2倍	우주의 탐구자	위그드라실의 잎사귀의 효율이 2배 증가	宇宙的探索者	世界之树的叶子的效率提高了2倍
+	世界の支配者	ユグドラシルの葉の効率が5倍になる	Ruler of the World	Yggdrasill's Leaf are 5 times more efficient	世界的統治者	世界之樹的葉子的效率提高了5倍	세계의 지배자	위그드라실의 잎사귀의 효율이 5배 증가	世界的统治者	世界之树的叶子的效率提高了5倍
+	学びの旅人	ワタリガラスの効率が2倍になる	Traveler of Learning	Raven are 2 times more efficient	學習的旅行者	烏鴉的效率提高了2倍	배움의 여행자	도래하는 까마귀의 효율이 2배 증가	学习的旅行者	乌鸦的效率提高了2倍
+	冒険者	ワタリガラスの効率が2倍になる	Adventurer	Raven are 2 times more efficient	冒險家	烏鴉的效率提高了2倍	모험가	도래하는 까마귀의 효율이 2배 증가	冒险家	乌鸦的效率提高了2倍
+	探究者	ワタリガラスの効率が2倍になる	Researcher	Raven are 2 times more efficient	探究者	烏鴉的效率提高了2倍	탐구자	도래하는 까마귀의 효율이 2배 증가	探究者	乌鸦的效率提高了2倍
+	自然の守り手	ワタリガラスの効率が2倍になる	Defender of Nature	Raven are 2 times more efficient	自然界的捍衛者	烏鴉的效率提高了2倍	자연의 수호자	도래하는 까마귀의 효율이 2배 증가	自然界的捍卫者	乌鸦的效率提高了2倍
+	勇敢な戦士	ワタリガラスの効率が3倍になる	Brave Warrior	Raven are 3 times more efficient	勇敢的戰士	烏鴉的效率提高了3倍	용감한 전사	도래하는 까마귀의 효율이 3배 증가	勇敢的战士	乌鸦的效率提高了3倍
+	天空の舞者	ワタリガラスの効率が2倍になる	Dancer of the Sky	Raven are 2 times more efficient	天空的舞者	烏鴉的效率提高了2倍	하늘의 춤꾼	도래하는 까마귀의 효율이 2배 증가	天空的舞者	乌鸦的效率提高了2倍
+	真実の探求者	ワタリガラスの効率が2倍になる	Seeker of Truth	Raven are 2 times more efficient	真理的探索者	烏鴉的效率提高了2倍	진실의 탐구자	도래하는 까마귀의 효율이 2배 증가	真理的探索者	乌鸦的效率提高了2倍
+	幻想の冒険者	ワタリガラスの効率が2倍になる	Adventurer of Illusion	Raven are 2 times more efficient	幻覺的冒險者	烏鴉的效率提高了2倍	환상의 모험가	도래하는 까마귀의 효율이 2배 증가	幻觉的冒险者	乌鸦的效率提高了2倍
+	天空の旅人	ワタリガラスの効率が2倍になる	Traveler of Sky	Raven are 2 times more efficient	天空的旅行者	烏鴉的效率提高了2倍	천공의 여행자	도래하는 까마귀의 효율이 2배 증가	天空的旅行者	乌鸦的效率提高了2倍
+	時空を超える者	ワタリガラスの効率が5倍になる	Transcenders of Time and Space	Raven are 5 times more efficient	超越時間和空間的人	烏鴉的效率提高了5倍	시공을 초월한 자	도래하는 까마귀의 효율이 5배 증가	超越时间和空间的人	乌鸦的效率提高了5倍
+	魂の輝き	ワタリガラスの効率が2倍になる	Shine of Soul	Raven are 2 times more efficient	靈魂的閃光者	烏鴉的效率提高了2倍	영혼의 빛	도래하는 까마귀의 효율이 2배 증가	灵魂的闪光者	乌鸦的效率提高了2倍
+	魂の紡ぎ手	ワタリガラスの効率が2倍になる	Weaver of Soul	Raven are 2 times more efficient	靈魂的編織者	烏鴉的效率提高了2倍	영혼을 잇는 자	도래하는 까마귀의 효율이 2배 증가	灵魂的编织者	乌鸦的效率提高了2倍
+	知恵の探求者	ワタリガラスの効率が5倍になる	Seeker of Wisdom	Raven are 5 times more efficient	智慧的追求者	烏鴉的效率提高了5倍	지혜의 탐구자	도래하는 까마귀의 효율이 5배 증가	智慧的追求者	乌鸦的效率提高了5倍
+	時空を操る者	ワタリガラスの効率が3倍になる	Manipulator of Time and Space	Raven are 3 times more efficient	時間和空間的操縱者	烏鴉的效率提高了3倍	시공간을 조종하는 자	도래하는 까마귀의 효율이 3배 증가	时间和空间的操纵者	乌鸦的效率提高了3倍
+	運命の導き手	ワタリガラスの効率が3倍になる	Guide of Destiny	Raven are 3 times more efficient	命運的嚮導	烏鴉的效率提高了3倍	운명의 인도자	도래하는 까마귀의 효율이 3배 증가	命运的向导	乌鸦的效率提高了3倍
+	宇宙の航海者	ワタリガラスの効率が3倍になる	Voyager of Universe	Raven are 3 times more efficient	宇宙的領航者	烏鴉的效率提高了3倍	우주의 항해자	도래하는 까마귀의 효율이 3배 증가	宇宙的领航者	乌鸦的效率提高了3倍
+	超越する者	ワタリガラスの効率が3倍になる	Transcendent One	Raven are 3 times more efficient	超越者	烏鴉的效率提高了3倍	초월자	도래하는 까마귀의 효율이 3배 증가	超越者	乌鸦的效率提高了3倍
+	真理の探求者	ワタリガラスの効率が5倍になる	Seeker of Truth	Raven are 5 times more efficient	尋求真理的人	烏鴉的效率提高了5倍	진리 탐구자	도래하는 까마귀의 효율이 5배 증가	寻求真理的人	乌鸦的效率提高了5倍
+	土壌の修復士	人族の農場の効率が2倍になる	Soil Repairer	Human's Farm are 2 times more efficient	土壤恢復者	人類的農莊的效率提高了2倍	토양 복원자	인족의 농장의 효율이 2배 증가	土壤恢复者	人类的农庄的效率提高了2倍
+	収穫の達人	人族の農場の効率が2倍になる	Harvest Expert	Human's Farm are 2 times more efficient	收穫大師	人類的農莊的效率提高了2倍	수확의 달인	인족의 농장의 효율이 2배 증가	收获大师	人类的农庄的效率提高了2倍
+	農業のプロ	人族の農場の効率が2倍になる	Agricultural Professional	Human's Farm are 2 times more efficient	農業專家	人類的農莊的效率提高了2倍	농업 전문가	인족의 농장의 효율이 2배 증가	农业专家	人类的农庄的效率提高了2倍
+	緑の大地の守り手	人族の農場の効率が2倍になる	Defenders of the Green Earth	Human's Farm are 2 times more efficient	綠色土地的捍衛者	人類的農莊的效率提高了2倍	푸른 땅의 수호자	인족의 농장의 효율이 2배 증가	绿色土地的捍卫者	人类的农庄的效率提高了2倍
+	自給自足の生活者	人族の農場の効率が2倍になる	Self-sufficient Livelihoods	Human's Farm are 2 times more efficient	自給自足的居民	人類的農莊的效率提高了2倍	자급자족 생활자	인족의 농장의 효율이 2배 증가	自给自足的居民	人类的农庄的效率提高了2倍
+	土地改良の達人	人族の農場の効率が2倍になる	Land Improvement Expert	Human's Farm are 2 times more efficient	土地改革者	人類的農莊的效率提高了2倍	토지 개량의 달인	인족의 농장의 효율이 2배 증가	土地改革者	人类的农庄的效率提高了2倍
+	食糧危機を救う者	人族の農場の効率が2倍になる	Food Crisis Rescuers	Human's Farm are 2 times more efficient	糧食危機的拯救者	人類的農莊的效率提高了2倍	식량 위기 해결사	인족의 농장의 효율이 2배 증가	粮食危机的拯救者	人类的农庄的效率提高了2倍
+	作物の研究者	人族の農場の効率が2倍になる	Crop Researchers	Human's Farm are 2 times more efficient	農作物研究者	人類的農莊的效率提高了2倍	작물 연구자	인족의 농장의 효율이 2배 증가	农作物研究者	人类的农庄的效率提高了2倍
+	食糧問題の解決者 	人族の農場の効率が5倍になる	Food Problem Solvers	Human's Farm are 5 times more efficient	糧食問題的解決者	人類的農莊的效率提高了5倍	식량 문제 해결사	인족의 농장의 효율이 5배 증가	粮食问题的解决者	人类的农庄的效率提高了5倍
+	農業の継承者	人族の農場の効率が2倍になる	Agricultural Heirs	Human's Farm are 2 times more efficient	農業繼承人	人類的農莊的效率提高了2倍	농업 후계자	인족의 농장의 효율이 2배 증가	农业继承人	人类的农庄的效率提高了2倍
+	農業の開拓者	人族の農場の効率が2倍になる	Agricultural Pioneers	Human's Farm are 2 times more efficient	農業先驅者	人類的農莊的效率提高了2倍	농업의 개척자	인족의 농장의 효율이 2배 증가	农业先驱者	人类的农庄的效率提高了2倍
+	革命の先駆者	人族の農場の効率が3倍になる	Pioneers of Revolution	Human's Farm are 3 times more efficient	革命的先驅者	人類的農莊的效率提高了3倍	혁명의 선구자	인족의 농장의 효율이 3배 증가	革命的先驱者	人类的农庄的效率提高了3倍
+	食の豊かさを追求する存在	人族の農場の効率が2倍になる	Pursuers of Food Enrichment	Human's Farm are 2 times more efficient	食品豐富劑	人類的農莊的效率提高了2倍	식생활의 풍요로움을 추구하는 존재	인족의 농장의 효율이 2배 증가	食品丰富剂	人类的农庄的效率提高了2倍
+	農業文化の継承者	人族の農場の効率が3倍になる	Inheritor of Agriculture	Human's Farm are 3 times more efficient	農業文化的繼承者	人類的農莊的效率提高了3倍	농업 문화의 계승자	인족의 농장의 효율이 3배 증가	农业文化的继承者	人类的农庄的效率提高了3倍
+	未来を担う存在	人族の農場の効率が3倍になる	Bearers of Future	Human's Farm are 3 times more efficient	未來的承載者	人類的農莊的效率提高了3倍	미래를 책임지는 존재	인족의 농장의 효율이 3배 증가	未来的承载者	人类的农庄的效率提高了3倍
+	自然の叡智	人族の農場の効率が3倍になる	Nature's Wisdom	Human's Farm are 3 times more efficient	大自然的智慧	人類的農莊的效率提高了3倍	자연의 지혜	인족의 농장의 효율이 3배 증가	大自然的智慧	人类的农庄的效率提高了3倍
+	恵みの管理人	人族の農場の効率が3倍になる	Keeper of Blessings	Human's Farm are 3 times more efficient	福祉的守護者	人類的農莊的效率提高了3倍	은혜의 관리인	인족의 농장의 효율이 3배 증가	福祉的守护者	人类的农庄的效率提高了3倍
+	食糧合成の帝王	人族の農場の効率が5倍になる	Emperor of Food Production	Human's Farm are 5 times more efficient	糧食合成的帝王	人類的農莊的效率提高了5倍	식량 생산의 제왕	인족의 농장의 효율이 5배 증가	粮食合成的帝王	人类的农庄的效率提高了5倍
+	森の賢者	ダークエルフの泉の効率が2倍になる	Sage of the Forest	Fountain of Dark Elves are 2 times more efficient	森林中的智者	黑暗精靈的噴泉的效率提高了2倍	숲의 현자	다크엘프의 샘의 효율이 2배 증가	森林中的智者	黑暗精灵的喷泉的效率提高了2倍
+	森の癒し手 	ダークエルフの泉の効率が2倍になる	Healer of the Forest	Fountain of Dark Elves are 2 times more efficient	森林的醫治者	黑暗精靈的噴泉的效率提高了2倍	숲의 치유자	다크엘프의 샘의 효율이 2배 증가	森林的医治者	黑暗精灵的喷泉的效率提高了2倍
+	自然界の使者	ダークエルフの泉の効率が2倍になる	Messenger of Nature	Fountain of Dark Elves are 2 times more efficient	大自然的使者	黑暗精靈的噴泉的效率提高了2倍	자연의 사자	다크엘프의 샘의 효율이 2배 증가	大自然的使者	黑暗精灵的喷泉的效率提高了2倍
+	神秘の水源守り	ダークエルフの泉の効率が2倍になる	Guardian of the Mysterious Water Source	Fountain of Dark Elves are 2 times more efficient	神秘的水源守護者	黑暗精靈的噴泉的效率提高了2倍	신비로운 물의 근원을 수호하는 자	다크엘프의 샘의 효율이 2배 증가	神秘的水源守护者	黑暗精灵的喷泉的效率提高了2倍
+	水の魔術師	ダークエルフの泉の効率が2倍になる	Magician of Water	Fountain of Dark Elves are 2 times more efficient	水的巫師	黑暗精靈的噴泉的效率提高了2倍	물의 마술사	다크엘프의 샘의 효율이 2배 증가	水的巫师	黑暗精灵的喷泉的效率提高了2倍
+	水の加護を授ける者	ダークエルフの泉の効率が2倍になる	Blesser of Water	Fountain of Dark Elves are 2 times more efficient	水的祝福者	黑暗精靈的噴泉的效率提高了2倍	물의 가호를 받은 자	다크엘프의 샘의 효율이 2배 증가	水的祝福者	黑暗精灵的喷泉的效率提高了2倍
+	森の守り神	ダークエルフの泉の効率が2倍になる	Guardian of the forest	Fountain of Dark Elves are 2 times more efficient	森林的守護者	黑暗精靈的噴泉的效率提高了2倍	숲의 수호신	다크엘프의 샘의 효율이 2배 증가	森林的守护者	黑暗精灵的喷泉的效率提高了2倍
+	水の騎士	ダークエルフの泉の効率が2倍になる	Knight of Water	Fountain of Dark Elves are 2 times more efficient	水的騎士	黑暗精靈的噴泉的效率提高了2倍	물의 기사	다크엘프의 샘의 효율이 2배 증가	水的骑士	黑暗精灵的喷泉的效率提高了2倍
+	水の奇跡を起こす者	ダークエルフの泉の効率が5倍になる	Creator of Water Miracle	Fountain of Dark Elves are 5 times more efficient	水奇蹟的創造者	黑暗精靈的噴泉的效率提高了5倍	물의 기적을 일으키는 자	다크엘프의 샘의 효율이 5배 증가	水奇迹的创造者	黑暗精灵的喷泉的效率提高了5倍
+	水の聖者	ダークエルフの泉の効率が2倍になる	The Saint of Water	Fountain of Dark Elves are 2 times more efficient	水之聖人	黑暗精靈的噴泉的效率提高了2倍	물의 성자	다크엘프의 샘의 효율이 2배 증가	水之圣人	黑暗精灵的喷泉的效率提高了2倍
+	泉の守護者	ダークエルフの泉の効率が2倍になる	Guardian of Fountains	Fountain of Dark Elves are 2 times more efficient	泉水的守護者	黑暗精靈的噴泉的效率提高了2倍	샘의 수호자	다크엘프의 샘의 효율이 2배 증가	泉水的守护者	黑暗精灵的喷泉的效率提高了2倍
+	清水の聖者	ダークエルフの泉の効率が2倍になる	Saint of Fresh Water	Fountain of Dark Elves are 2 times more efficient	淡水的聖徒	黑暗精靈的噴泉的效率提高了2倍	맑은 물의 성자	다크엘프의 샘의 효율이 2배 증가	淡水的圣徒	黑暗精灵的喷泉的效率提高了2倍
+	純水の加護	ダークエルフの泉の効率が2倍になる	Blessing of Pure Water	Fountain of Dark Elves are 2 times more efficient	祝福純淨的水	黑暗精靈的噴泉的效率提高了2倍	순수한 물의 가호	다크엘프의 샘의 효율이 2배 증가	祝福纯净的水	黑暗精灵的喷泉的效率提高了2倍
+	泉の浄化者	ダークエルフの泉の効率が3倍になる	Purifier of Springs	Fountain of Dark Elves are 3 times more efficient	泉水的淨化者	黑暗精靈的噴泉的效率提高了3倍	샘물의 정화자	다크엘프의 샘의 효율이 3배 증가	泉水的净化者	黑暗精灵的喷泉的效率提高了3倍
+	流水の詠唱師	ダークエルフの泉の効率が3倍になる	Enchanter of Flowing Water	Fountain of Dark Elves are 3 times more efficient	流水的吟唱者	黑暗精靈的噴泉的效率提高了3倍	흐르는 물의 창시자	다크엘프의 샘의 효율이 3배 증가	流水的吟唱者	黑暗精灵的喷泉的效率提高了3倍
+	泉の祝福を受けし者	ダークエルフの泉の効率が3倍になる	Blessed of the Fountain	Fountain of Dark Elves are 3 times more efficient	泉眼的祝福者	黑暗精靈的噴泉的效率提高了3倍	샘의 축복을 받은 자	다크엘프의 샘의 효율이 3배 증가	泉眼的祝福者	黑暗精灵的喷泉的效率提高了3倍
+	泉の瑠璃色騎士	ダークエルフの泉の効率が3倍になる	Azure Knight of the Fountain	Fountain of Dark Elves are 3 times more efficient	泉水的青金石騎士	黑暗精靈的噴泉的效率提高了3倍	샘의 청록색 기사	다크엘프의 샘의 효율이 3배 증가	泉水的青金石骑士	黑暗精灵的喷泉的效率提高了3倍
+	湧き出る命の源	ダークエルフの泉の効率が5倍になる	Fountain of Life	Fountain of Dark Elves are 5 times more efficient	湧現的生命之源	黑暗精靈的噴泉的效率提高了5倍	샘솟는 생명의 원천	다크엘프의 샘의 효율이 5배 증가	涌现的生命之源	黑暗精灵的喷泉的效率提高了5倍
+	鉄の職人	ドヴェルグ族の鍛冶場の効率が2倍になる	Iron Craftsman	Forge of Dwarves are 2 times more efficient	鐵匠	德維爾格的鍛造廠的效率提高了2倍	철의 장인	드베르그의 대장간의 효율이 2배 증가	铁匠	德维尔格的锻造厂的效率提高了2倍
+	熟練の鋳造技術者	ドヴェルグ族の鍛冶場の効率が2倍になる	Skilled Forger	Forge of Dwarves are 2 times more efficient	熟練的鑄造工匠	德維爾格的鍛造廠的效率提高了2倍	숙련된 주조 기술자	드베르그의 대장간의 효율이 2배 증가	熟练的铸造工匠	德维尔格的锻造厂的效率提高了2倍
+	鋳造の専門家	ドヴェルグ族の鍛冶場の効率が2倍になる	Expert Forger	Forge of Dwarves are 2 times more efficient	專業的鑄造工匠	德維爾格的鍛造廠的效率提高了2倍	주조 전문가	드베르그의 대장간의 효율이 2배 증가	专业的铸造工匠	德维尔格的锻造厂的效率提高了2倍
+	鍛冶場の名工	ドヴェルグ族の鍛冶場の効率が2倍になる	Master Blacksmith	Forge of Dwarves are 2 times more efficient	鐵匠大師	德維爾格的鍛造廠的效率提高了2倍	대장간의 명장	드베르그의 대장간의 효율이 2배 증가	铁匠大师	德维尔格的锻造厂的效率提高了2倍
+	熟練の鋳造職人	ドヴェルグ族の鍛冶場の効率が2倍になる	Skilled Craftsman	Forge of Dwarves are 2 times more efficient	熟練的鑄造工匠	德維爾格的鍛造廠的效率提高了2倍	숙련된 주조 장인	드베르그의 대장간의 효율이 2배 증가	熟练的铸造工匠	德维尔格的锻造厂的效率提高了2倍
+	鋼鉄の創造者	ドヴェルグ族の鍛冶場の効率が2倍になる	Creator of Steel	Forge of Dwarves are 2 times more efficient	鋼材創造者	德維爾格的鍛造廠的效率提高了2倍	강철의 창조자	드베르그의 대장간의 효율이 2배 증가	钢材创造者	德维尔格的锻造厂的效率提高了2倍
+	鋼鉄の加工者	ドヴェルグ族の鍛冶場の効率が2倍になる	Steel Manufacturer	Forge of Dwarves are 2 times more efficient	鋼鐵製造者	德維爾格的鍛造廠的效率提高了2倍	강철 가공자	드베르그의 대장간의 효율이 2배 증가	钢铁制造者	德维尔格的锻造厂的效率提高了2倍
+	熟練の鍛冶職人	ドヴェルグ族の鍛冶場の効率が2倍になる	Skilled Blacksmith	Forge of Dwarves are 2 times more efficient	熟練的鐵匠	德維爾格的鍛造廠的效率提高了2倍	숙련된 대장장이	드베르그의 대장간의 효율이 2배 증가	熟练的铁匠	德维尔格的锻造厂的效率提高了2倍
+	鋳造の革命家	ドヴェルグ族の鍛冶場の効率が5倍になる	Revolutionary of Forging	Forge of Dwarves are 5 times more efficient	鑄造的革命者	德維爾格的鍛造廠的效率提高了5倍	주조의 혁명가	드베르그의 대장간의 효율이 5배 증가	铸造的革命者	德维尔格的锻造厂的效率提高了5倍
+	鋳造の巨匠	ドヴェルグ族の鍛冶場の効率が2倍になる	Forging Master	Forge of Dwarves are 2 times more efficient	鑄造大師	德維爾格的鍛造廠的效率提高了2倍	주조의 대가	드베르그의 대장간의 효율이 2배 증가	铸造大师	德维尔格的锻造厂的效率提高了2倍
+	鋳造技術者	ドヴェルグ族の鍛冶場の効率が2倍になる	Casting Engineer	Forge of Dwarves are 2 times more efficient	鑄造技術員	德維爾格的鍛造廠的效率提高了2倍	주조 기술자	드베르그의 대장간의 효율이 2배 증가	铸造技术员	德维尔格的锻造厂的效率提高了2倍
+	熔鉄の巨匠	ドヴェルグ族の鍛冶場の効率が2倍になる	Master of Iron-Melting	Forge of Dwarves are 2 times more efficient	熔融鐵水的大師	德維爾格的鍛造廠的效率提高了2倍	용철의 대가	드베르그의 대장간의 효율이 2배 증가	熔融铁水的大师	德维尔格的锻造厂的效率提高了2倍
+	鍛冶場の黒騎士	ドヴェルグ族の鍛冶場の効率が2倍になる	Black Knight of the Forge	Forge of Dwarves are 2 times more efficient	鍛造的黑騎士	德維爾格的鍛造廠的效率提高了2倍	대장간 흑기사	드베르그의 대장간의 효율이 2배 증가	锻造的黑骑士	德维尔格的锻造厂的效率提高了2倍
+	鍛冶場の主	ドヴェルグ族の鍛冶場の効率が3倍になる	Owner of the Forge	Forge of Dwarves are 3 times more efficient	鍛造大師	德維爾格的鍛造廠的效率提高了3倍	대장간 주인	드베르그의 대장간의 효율이 3배 증가	锻造大师	德维尔格的锻造厂的效率提高了3倍
+	鍛冶場の巨匠	ドヴェルグ族の鍛冶場の効率が3倍になる	Master of the Forge	Forge of Dwarves are 3 times more efficient	鍛造大師	德維爾格的鍛造廠的效率提高了3倍	대장간 마스터	드베르그의 대장간의 효율이 3배 증가	锻造大师	德维尔格的锻造厂的效率提高了3倍
+	炎の聖域の守護者	ドヴェルグ族の鍛冶場の効率が3倍になる	Guardian of the Sanctuary of Fire	Forge of Dwarves are 3 times more efficient	火之聖地的守護者	德維爾格的鍛造廠的效率提高了3倍	불의 성역의 수호자	드베르그의 대장간의 효율이 3배 증가	火之圣地的守护者	德维尔格的锻造厂的效率提高了3倍
+	鉄の聖域の守護者	ドヴェルグ族の鍛冶場の効率が3倍になる	Guardian of the Sanctuary of Iron	Forge of Dwarves are 3 times more efficient	鐵之聖地的守護者	德維爾格的鍛造廠的效率提高了3倍	철의 성역의 수호자	드베르그의 대장간의 효율이 3배 증가	铁之圣地的守护者	德维尔格的锻造厂的效率提高了3倍
+	偉大なる錬金術師	ドヴェルグ族の鍛冶場の効率が5倍になる	The Great Alchemist	Forge of Dwarves are 5 times more efficient	偉大的煉金術士	德維爾格的鍛造廠的效率提高了5倍	위대한 연금술사	드베르그의 대장간의 효율이 5배 증가	伟大的炼金术士	德维尔格的锻造厂的效率提高了5倍
+	神の使者の召集者	ヴァン神族の祭祀場の効率が2倍になる	Summoner of God's messengers	Vanir's Shrine are 2 times more efficient	神聖使者的召喚者	華納神族的祭祀大廳的效率提高了2倍	신의 사자 소집자	바니르 신족의 제사장의 효율이 2배 증가	神圣使者的召唤者	华纳神族的祭祀大厅的效率提高了2倍
+	神秘の儀式の指導者	ヴァン神族の祭祀場の効率が2倍になる	Leader of Mystical Ritual	Vanir's Shrine are 2 times more efficient	神秘儀式的領導者	華納神族的祭祀大廳的效率提高了2倍	신비한 의식의 지도자	바니르 신족의 제사장의 효율이 2배 증가	神秘仪式的领导者	华纳神族的祭祀大厅的效率提高了2倍
+	神々の恵みの伝達者	ヴァン神族の祭祀場の効率が2倍になる	Transmitter of Gods' Blessing	Vanir's Shrine are 2 times more efficient	諸神祝福的傳遞者	華納神族的祭祀大廳的效率提高了2倍	신들의 은총의 전달자	바니르 신족의 제사장의 효율이 2배 증가	诸神祝福的传递者	华纳神族的祭祀大厅的效率提高了2倍
+	神聖なる力の使者	ヴァン神族の祭祀場の効率が2倍になる	Messenger of Divine Power	Vanir's Shrine are 2 times more efficient	神聖力量的使者	華納神族的祭祀大廳的效率提高了2倍	신성한 힘의 사자	바니르 신족의 제사장의 효율이 2배 증가	神圣力量的使者	华纳神族的祭祀大厅的效率提高了2倍
+	神々の意思の伝達者	ヴァン神族の祭祀場の効率が2倍になる	Transmitter of Gods' Will	Vanir's Shrine are 2 times more efficient	眾神意志的傳遞者	華納神族的祭祀大廳的效率提高了2倍	신들의 의지의 전달자	바니르 신족의 제사장의 효율이 2배 증가	众神意志的传递者	华纳神族的祭祀大厅的效率提高了2倍
+	神聖なる儀式の祝福者	ヴァン神族の祭祀場の効率が2倍になる	Blesser of Sacred Ritual	Vanir's Shrine are 2 times more efficient	神聖儀式的祝福者	華納神族的祭祀大廳的效率提高了2倍	신성한 의식의 축복자	바니르 신족의 제사장의 효율이 2배 증가	神圣仪式的祝福者	华纳神族的祭祀大厅的效率提高了2倍
+	祭祀場の神聖なる契約者	ヴァン神族の祭祀場の効率が2倍になる	Sacred Contractor of the Shrine	Vanir's Shrine are 2 times more efficient	儀式大廳的神聖承包商	華納神族的祭祀大廳的效率提高了2倍	제사장의 신성한 계약자	바니르 신족의 제사장의 효율이 2배 증가	仪式大厅的神圣承包商	华纳神族的祭祀大厅的效率提高了2倍
+	神々の力の解放者	ヴァン神族の祭祀場の効率が2倍になる	Liberator of Gods' Power	Vanir's Shrine are 2 times more efficient	神的力量的釋放者	華納神族的祭祀大廳的效率提高了2倍	신들의 힘의 해방자	바니르 신족의 제사장의 효율이 2배 증가	神的力量的释放者	华纳神族的祭祀大厅的效率提高了2倍
+	祭祀場の神聖なる護法者	ヴァン神族の祭祀場の効率が5倍になる	Sacred Protector of the Shrine	Vanir's Shrine are 5 times more efficient	祭祀大廳的神聖保護者	華納神族的祭祀大廳的效率提高了5倍	제사장의 신성한 수호자	바니르 신족의 제사장의 효율이 5배 증가	祭祀大厅的神圣保护者	华纳神族的祭祀大厅的效率提高了5倍
+	霊魂の狩人	ヴァン神族の祭祀場の効率が2倍になる	Hunter of Souls	Vanir's Shrine are 2 times more efficient	神靈的獵人	華納神族的祭祀大廳的效率提高了2倍	영혼의 사냥꾼	바니르 신족의 제사장의 효율이 2배 증가	神灵的猎人	华纳神族的祭祀大厅的效率提高了2倍
+	神々の恩寵の授け手	ヴァン神族の祭祀場の効率が2倍になる	Giver of Divine Grace	Vanir's Shrine are 2 times more efficient	神聖恩典的賜予者	華納神族的祭祀大廳的效率提高了2倍	신들의 은총을 베푸는 자	바니르 신족의 제사장의 효율이 2배 증가	神圣恩典的赐予者	华纳神族的祭祀大厅的效率提高了2倍
+	神聖なる輝きの探求者	ヴァン神族の祭祀場の効率が2倍になる	Seeker of the Sacred Radiance	Vanir's Shrine are 2 times more efficient	神聖光芒的尋求者	華納神族的祭祀大廳的效率提高了2倍	신성한 광채의 탐구자	바니르 신족의 제사장의 효율이 2배 증가	神圣光芒的寻求者	华纳神族的祭祀大厅的效率提高了2倍
+	神聖なる知識の収集者	ヴァン神族の祭祀場の効率が2倍になる	Gatherer of Sacred Knowledge	Vanir's Shrine are 2 times more efficient	神聖知識的收集者	華納神族的祭祀大廳的效率提高了2倍	신성한 지식의 수집가	바니르 신족의 제사장의 효율이 2배 증가	神圣知识的收集者	华纳神族的祭祀大厅的效率提高了2倍
+	霊魂の安息の主	ヴァン神族の祭祀場の効率が3倍になる	Lord of Peace of Soul	Vanir's Shrine are 3 times more efficient	神靈之餘的主宰	華納神族的祭祀大廳的效率提高了3倍	영혼의 안식처를 주관하는 자	바니르 신족의 제사장의 효율이 3배 증가	神灵之余的主宰	华纳神族的祭祀大厅的效率提高了3倍
+	神聖なる契約の締結者	ヴァン神族の祭祀場の効率が3倍になる	Contractor of the Sacred Covenant	Vanir's Shrine are 3 times more efficient	神聖盟約的簽署者	華納神族的祭祀大廳的效率提高了3倍	신성한 계약의 체결자	바니르 신족의 제사장의 효율이 3배 증가	神圣盟约的签署者	华纳神族的祭祀大厅的效率提高了3倍
+	神々の意志の実現者	ヴァン神族の祭祀場の効率が3倍になる	Fulfiller of Gods' Will	Vanir's Shrine are 3 times more efficient	神聖意志的實現者	華納神族的祭祀大廳的效率提高了3倍	신들의 뜻을 실현하는 자	바니르 신족의 제사장의 효율이 3배 증가	神圣意志的实现者	华纳神族的祭祀大厅的效率提高了3倍
+	神聖なる生命の創造者	ヴァン神族の祭祀場の効率が3倍になる	Creator of Divine Life	Vanir's Shrine are 3 times more efficient	神聖生命的創造者	華納神族的祭祀大廳的效率提高了3倍	신성한 생명의 창조자	바니르 신족의 제사장의 효율이 3배 증가	神圣生命的创造者	华纳神族的祭祀大厅的效率提高了3倍
+	神聖なる霊魂の輪廻者	ヴァン神族の祭祀場の効率が5倍になる	Reincarnator of Sacred Soul	Vanir's Shrine are 5 times more efficient	聖靈的轉世者	華納神族的祭祀大廳的效率提高了5倍	신성한 영혼의 윤회자	바니르 신족의 제사장의 효율이 5배 증가	圣灵的转世者	华纳神族的祭祀大厅的效率提高了5倍
+	樹海の自然を愛する者	神聖なる樹海の効率が2倍になる	The Lover of Nature of Forest	Sacred Forest are 2 times more efficient	樹海自然的愛者	神聖的樹海的效率提高了2倍	수해의 자연을 사랑하는 자	신성한 수해의 효율이 2배 증가	树海自然的爱者	神圣的树海的效率提高了2倍
+	樹海の森林浴の案内人	神聖なる樹海の効率が2倍になる	Guide of the Forest Bathing	Sacred Forest are 2 times more efficient	樹海森林浴場的引導者	神聖的樹海的效率提高了2倍	수해의 삼림욕 안내자	신성한 수해의 효율이 2배 증가	树海森林浴场的引导者	神圣的树海的效率提高了2倍
+	樹海の生態系の保護者	神聖なる樹海の効率が2倍になる	Guardian of Ecosystem of the Forest	Sacred Forest are 2 times more efficient	樹海生態系統的守護者	神聖的樹海的效率提高了2倍	수해 생태계의 보호자	신성한 수해의 효율이 2배 증가	树海生态系统的守护者	神圣的树海的效率提高了2倍
+	樹海の生態系の維持者	神聖なる樹海の効率が2倍になる	Maintainer of Ecosystem of the Forest	Sacred Forest are 2 times more efficient	樹海生態系統的維護者	神聖的樹海的效率提高了2倍	수해 생태계의 유지자	신성한 수해의 효율이 2배 증가	树海生态系统的维护者	神圣的树海的效率提高了2倍
+	自然の息吹を感じる者	神聖なる樹海の効率が3倍になる	One who feel the breath of nature	Sacred Forest are 3 times more efficient	感受自然氣息的人	神聖的樹海的效率提高了3倍	자연의 숨결을 느끼는 자	신성한 수해의 효율이 3배 증가	感受自然气息的人	神圣的树海的效率提高了3倍
+	神聖なる森の癒し手	神聖なる樹海の効率が2倍になる	Healers of the Sacred Forest	Sacred Forest are 2 times more efficient	神聖森林的治療師	神聖的樹海的效率提高了2倍	신성한 숲의 치유자	신성한 수해의 효율이 2배 증가	神圣森林的治疗师	神圣的树海的效率提高了2倍
+	神聖なる樹海の生態学者	神聖なる樹海の効率が5倍になる	Ecologist of the Sacred Forest	Sacred Forest are 5 times more efficient	樹木園的神聖生態學家	神聖的樹海的效率提高了5倍	신성한 수해의 생태학자	신성한 수해의 효율이 5배 증가	树木园的神圣生态学家	神圣的树海的效率提高了5倍
+	樹海の神聖なる知識の伝承者	神聖なる樹海の効率が2倍になる	Inheritor of Sacred Forest's Knowledge	Sacred Forest are 2 times more efficient	樹木之海的神聖知識傳播者	神聖的樹海的效率提高了2倍	수해의 신성한 지식의 전승자	신성한 수해의 효율이 2배 증가	树木之海的神圣知识传播者	神圣的树海的效率提高了2倍
+	樹海の神聖なる秘儀の学者	神聖なる樹海の効率が10倍になる	Scholar of Sacred Forest's Ritual	Sacred Forest are 10 times more efficient	樹海的神聖奧秘的學者們	神聖的樹海的效率提高了10倍	수해의 신성한 비의를 연구하는 학자	신성한 수해의 효율이 10배 증가	树海的神圣奥秘的学者们	神圣的树海的效率提高了10倍
+	樹海の森羅万象を熟知する者	神聖なる樹海の効率が2倍になる	All-knowing of Sacred Forest	Sacred Forest are 2 times more efficient	了解整個樹海森林的人	神聖的樹海的效率提高了2倍	수해의 삼라만상을 꿰뚫는 자	신성한 수해의 효율이 2배 증가	了解整个树海森林的人	神圣的树海的效率提高了2倍
+	樹海の生命力を宿す者	神聖なる樹海の効率が2倍になる	Carrier of Sacred Forest's Lifeforce	Sacred Forest are 2 times more efficient	擁有樹海生命力的人	神聖的樹海的效率提高了2倍	수해의 생명력을 지닌 자	신성한 수해의 효율이 2배 증가	拥有树海生命力的人	神圣的树海的效率提高了2倍
+	生命の響きを聴く者	神聖なる樹海の効率が2倍になる	One who hears the echoes of life	Sacred Forest are 2 times more efficient	聆聽生命迴聲的人	神聖的樹海的效率提高了2倍	생명의 울림을 듣는 자	신성한 수해의 효율이 2배 증가	聆听生命回声的人	神圣的树海的效率提高了2倍
+	生命の輝きを解き放つ者	神聖なる樹海の効率が5倍になる	Liberator of Life's Radiance	Sacred Forest are 5 times more efficient	釋放生命光輝的人	神聖的樹海的效率提高了5倍	생명의 빛을 발산하는 자	신성한 수해의 효율이 5배 증가	释放生命光辉的人	神圣的树海的效率提高了5倍
+	自然と共に生きる者	神聖なる樹海の効率が2倍になる	One who lives with nature	Sacred Forest are 2 times more efficient	與自然共存的人	神聖的樹海的效率提高了2倍	자연과 함께 사는 자	신성한 수해의 효율이 2배 증가	与自然共存的人	神圣的树海的效率提高了2倍
+	生態系の守護神	神聖なる樹海の効率が2倍になる	Guardian of the Ecosystem	Sacred Forest are 2 times more efficient	生態系統的守護者	神聖的樹海的效率提高了2倍	생태계의 수호신	신성한 수해의 효율이 2배 증가	生态系统的守护者	神圣的树海的效率提高了2倍
+	樹海の自然療法士	神聖なる樹海の効率が2倍になる	Healer of Sacred Forest	Sacred Forest are 2 times more efficient	樹木之海的自然療法	神聖的樹海的效率提高了2倍	수해의 자연치료사	신성한 수해의 효율이 2배 증가	树木之海的自然疗法	神圣的树海的效率提高了2倍
+	神聖なる魂の発見者	神聖なる樹海の効率が2倍になる	Founder of the Sacred Soul	Sacred Forest are 2 times more efficient	神聖靈魂的發現者	神聖的樹海的效率提高了2倍	신성한 영혼의 발견자	신성한 수해의 효율이 2배 증가	神圣灵魂的发现者	神圣的树海的效率提高了2倍
+	樹海の儀式の司祭	神聖なる樹海の効率が5倍になる	Priest of the Sacred Forest's Ritual	Sacred Forest are 5 times more efficient	樹海的儀式祭司	神聖的樹海的效率提高了5倍	수해의 의식의 사제	신성한 수해의 효율이 5배 증가	树海的仪式祭司	神圣的树海的效率提高了5倍
+	法の執行者	テュールの神殿の効率が2倍になる	Enforcer of the Law	Tyr's Temple are 2 times more efficient	法律的執行者	提爾神廟的效率提高了2倍	법의 집행자	티르의 신전의 효율이 2배 증가	法律的执行者	提尔神庙的效率提高了2倍
+	弱き者の守護者	テュールの神殿の効率が2倍になる	Guardian of the Weak	Tyr's Temple are 2 times more efficient	弱者的守護者	提爾神廟的效率提高了2倍	약자의 수호자	티르의 신전의 효율이 2배 증가	弱者的守护者	提尔神庙的效率提高了2倍
+	法律の散歩書	テュールの神殿の効率が2倍になる	Walking Book of Law	Tyr's Temple are 2 times more efficient	法律的行走書	提爾神廟的效率提高了2倍	법의 산책서	티르의 신전의 효율이 2배 증가	法律的行走书	提尔神庙的效率提高了2倍
+	正義の裁判官	テュールの神殿の効率が2倍になる	Judge of Justice	Tyr's Temple are 2 times more efficient	正義的法官	提爾神廟的效率提高了2倍	정의의 판사	티르의 신전의 효율이 2배 증가	正义的法官	提尔神庙的效率提高了2倍
+	聖なるパラディン	テュールの神殿の効率が3倍になる	Sacred Paladin	Tyr's Temple are 3 times more efficient	聖殿騎士	提爾神廟的效率提高了3倍	성스러운 성기사	티르의 신전의 효율이 3배 증가	圣殿骑士	提尔神庙的效率提高了3倍
+	正義の勇者	テュールの神殿の効率が2倍になる	Hero of Justice	Tyr's Temple are 2 times more efficient	勇敢的正義之士	提爾神廟的效率提高了2倍	정의의 용사	티르의 신전의 효율이 2배 증가	勇敢的正义之士	提尔神庙的效率提高了2倍
+	無辜の盾	テュールの神殿の効率が2倍になる	Shield of the Innocent	Tyr's Temple are 2 times more efficient	無辜者的盾牌	提爾神廟的效率提高了2倍	무적의 방패	티르의 신전의 효율이 2배 증가	无辜者的盾牌	提尔神庙的效率提高了2倍
+	テュールの鉄槌	テュールの神殿の効率が2倍になる	Tyr's Hammer	Tyr's Temple are 2 times more efficient	遒勁的錘子	提爾神廟的效率提高了2倍	튈의 망치	티르의 신전의 효율이 2배 증가	遒劲的锤子	提尔神庙的效率提高了2倍
+	真実の守護者	テュールの神殿の効率が2倍になる	Guardian of Truth	Tyr's Temple are 2 times more efficient	真理的守護者	提爾神廟的效率提高了2倍	진실의 수호자	티르의 신전의 효율이 2배 증가	真理的守护者	提尔神庙的效率提高了2倍
+	聖なる亀	テュールの神殿の効率が5倍になる	Sacred Turtle	Tyr's Temple are 5 times more efficient	神聖的烏龜	提爾神廟的效率提高了5倍	성스러운 거북이	티르의 신전의 효율이 5배 증가	神圣的乌龟	提尔神庙的效率提高了5倍
+	正義の右腕	テュールの神殿の効率が2倍になる	The Right Hand of Justice	Tyr's Temple are 2 times more efficient	正義的右臂	提爾神廟的效率提高了2倍	정의의 오른팔	티르의 신전의 효율이 2배 증가	正义的右臂	提尔神庙的效率提高了2倍
+	神聖なる調停者	テュールの神殿の効率が2倍になる	The Sacred Peacemaker	Tyr's Temple are 2 times more efficient	神聖的調解人	提爾神廟的效率提高了2倍	신성한 중재자	티르의 신전의 효율이 2배 증가	神圣的调解人	提尔神庙的效率提高了2倍
+	裁判官と陪審員	テュールの神殿の効率が5倍になる	Judge and Jury	Tyr's Temple are 5 times more efficient	法官和陪審團	提爾神廟的效率提高了5倍	판사와 배심원	티르의 신전의 효율이 5배 증가	法官和陪审团	提尔神庙的效率提高了5倍
+	英雄の伝説	テュールの神殿の効率が3倍になる	Legends of Heroes	Tyr's Temple are 3 times more efficient	英雄的傳說	提爾神廟的效率提高了3倍	영웅의 전설	티르의 신전의 효율이 3배 증가	英雄的传说	提尔神庙的效率提高了3倍
+	逆転勝利	テュールの神殿の効率が3倍になる	Comeback Victory	Tyr's Temple are 3 times more efficient	反轉的勝利	提爾神廟的效率提高了3倍	역전의 승리	티르의 신전의 효율이 3배 증가	反转的胜利	提尔神庙的效率提高了3倍
+	鉄壁の守護者	テュールの神殿の効率が3倍になる	Defender of the Iron Wall	Tyr's Temple are 3 times more efficient	鐵血的守護者	提爾神廟的效率提高了3倍	철벽의 수호자	티르의 신전의 효율이 3배 증가	铁血的守护者	提尔神庙的效率提高了3倍
+	至高者	テュールの神殿の効率が3倍になる	The Supreme Being	Tyr's Temple are 3 times more efficient	至高無上	提爾神廟的效率提高了3倍	지고의 존재	티르의 신전의 효율이 3배 증가	至高无上	提尔神庙的效率提高了3倍
+	不敗神話	テュールの神殿の効率が5倍になる	Myth of the Undefeated	Tyr's Temple are 5 times more efficient	不敗的神話	提爾神廟的效率提高了5倍	불패의 신화	티르의 신전의 효율이 5배 증가	不败的神话	提尔神庙的效率提高了5倍
+	緑の妖精の友	エルフ薬草園の効率が2倍になる	Friend of the Green Fairy	Elves' Herb Garden are 2 times more efficient	綠色仙女的朋友	精靈草藥園的效率提高了2倍	녹색 요정의 친구	엘프의 허브정원의 효율이 2배 증가	绿色仙女的朋友	精灵草药园的效率提高了2倍
+	薬草の専門家	エルフ薬草園の効率が2倍になる	Herbalist	Elves' Herb Garden are 2 times more efficient	藥草師	精靈草藥園的效率提高了2倍	약초 전문가	엘프의 허브정원의 효율이 2배 증가	药草师	精灵草药园的效率提高了2倍
+	薬草の騎士	エルフ薬草園の効率が2倍になる	Knight of Herbs	Elves' Herb Garden are 2 times more efficient	藥材的騎士	精靈草藥園的效率提高了2倍	약초의 기사	엘프의 허브정원의 효율이 2배 증가	药材的骑士	精灵草药园的效率提高了2倍
+	植物の味方	エルフ薬草園の効率が2倍になる	Friend of Plants	Elves' Herb Garden are 2 times more efficient	植物的朋友	精靈草藥園的效率提高了2倍	식물의 친구	엘프의 허브정원의 효율이 2배 증가	植物的朋友	精灵草药园的效率提高了2倍
+	自然の護り手	エルフ薬草園の効率が2倍になる	Guardian of Nature	Elves' Herb Garden are 2 times more efficient	自然的守護者	精靈草藥園的效率提高了2倍	자연의 수호자	엘프의 허브정원의 효율이 2배 증가	自然的守护者	精灵草药园的效率提高了2倍
+	薬草園の主	エルフ薬草園の効率が2倍になる	Master of Herb Garden	Elves' Herb Garden are 2 times more efficient	草藥園的主人	精靈草藥園的效率提高了2倍	허브정원의 주인	엘프의 허브정원의 효율이 2배 증가	草药园的主人	精灵草药园的效率提高了2倍
+	植物学の天才	エルフ薬草園の効率が2倍になる	Botanical Genius	Elves' Herb Garden are 2 times more efficient	植物學天才	精靈草藥園的效率提高了2倍	식물학의 천재	엘프의 허브정원의 효율이 2배 증가	植物学天才	精灵草药园的效率提高了2倍
+	エルフの薬師	エルフ薬草園の効率が2倍になる	Elven Apothecary	Elves' Herb Garden are 2 times more efficient	精靈藥師	精靈草藥園的效率提高了2倍	엘프 약사	엘프의 허브정원의 효율이 2배 증가	精灵药师	精灵草药园的效率提高了2倍
+	草木の聖霊使い	エルフ薬草園の効率が5倍になる	Spirit-user of Plants	Elves' Herb Garden are 5 times more efficient	植物和樹木的靈魂使用者	精靈草藥園的效率提高了5倍	초목의 성령사	엘프의 허브정원의 효율이 5배 증가	植物和树木的灵魂使用者	精灵草药园的效率提高了5倍
+	毒を知る者	エルフ薬草園の効率が2倍になる	Poison Researcher	Elves' Herb Garden are 2 times more efficient	毒藥知識者	精靈草藥園的效率提高了2倍	독을 아는 자	엘프의 허브정원의 효율이 2배 증가	毒药知识者	精灵草药园的效率提高了2倍
+	緑の大神官	エルフ薬草園の効率が2倍になる	High Priestess of Green	Elves' Herb Garden are 2 times more efficient	綠色的大祭司	精靈草藥園的效率提高了2倍	녹색의 대신관	엘프의 허브정원의 효율이 2배 증가	绿色的大祭司	精灵草药园的效率提高了2倍
+	自然の慈愛者	エルフ薬草園の効率が3倍になる	Lover of Nature	Elves' Herb Garden are 3 times more efficient	富有同情心的自然愛好者	精靈草藥園的效率提高了3倍	자연을 사랑하는 자선가	엘프의 허브정원의 효율이 3배 증가	富有同情心的自然爱好者	精灵草药园的效率提高了3倍
+	薬草のアルケミスト	エルフ薬草園の効率が2倍になる	Alchemist of Herbs	Elves' Herb Garden are 2 times more efficient	藥用植物的煉金術士	精靈草藥園的效率提高了2倍	약초의 연금술사	엘프의 허브정원의 효율이 2배 증가	药用植物的炼金术士	精灵草药园的效率提高了2倍
+	万能薬の開発者	エルフ薬草園の効率が3倍になる	Researcher of Panaceas	Elves' Herb Garden are 3 times more efficient	靈丹妙藥的開發者	精靈草藥園的效率提高了3倍	만병통치약 개발자	엘프의 허브정원의 효율이 3배 증가	灵丹妙药的开发者	精灵草药园的效率提高了3倍
+	未知の病に立ち向かう勇敢なる者	エルフ薬草園の効率が3倍になる	The Brave One who confronts unknown diseases	Elves' Herb Garden are 3 times more efficient	勇敢面對未知疾病的人	精靈草藥園的效率提高了3倍	미지의 병에 맞서는 용감한 자	엘프의 허브정원의 효율이 3배 증가	勇敢面对未知疾病的人	精灵草药园的效率提高了3倍
+	病気の原因を見抜く力を持つ者	エルフ薬草園の効率が3倍になる	One who can found the cause of disease	Elves' Herb Garden are 3 times more efficient	有能力檢測病因的人	精靈草藥園的效率提高了3倍	병의 원인을 꿰뚫어보는 힘을 가진 자	엘프의 허브정원의 효율이 3배 증가	有能力检测病因的人	精灵草药园的效率提高了3倍
+	風邪にも負けない体質の持ち主	エルフ薬草園の効率が3倍になる	One who resist to colds	Elves' Herb Garden are 3 times more efficient	擁有不受感冒影響的體質的人	精靈草藥園的效率提高了3倍	감기에도 끄떡없는 체질의 소유자	엘프의 허브정원의 효율이 3배 증가	拥有不受感冒影响的体质的人	精灵草药园的效率提高了3倍
+	毒にも負けない体質の持ち主	エルフ薬草園の効率が5倍になる	One who resist to poisons	Elves' Herb Garden are 5 times more efficient	擁有抗毒體質的人	精靈草藥園的效率提高了5倍	독에도 끄떡없는 체질의 소유자	엘프의 허브정원의 효율이 5배 증가	拥有抗毒体质的人	精灵草药园的效率提高了5倍
+	ワープポイントの使い手	異世界のワープゲートの効率が2倍になる	User of Portal	Otherworld's Portal are 2 times more efficient	經點使用者	異世界的傳送門的效率提高了2倍	워프 포인트의 사용자	이세계의 워프 게이트의 효율이 2배 증가	经点使用者	异世界的传送门的效率提高了2倍
+	異次元空間の旅人	異世界のワープゲートの効率が2倍になる	Otherworld's Traveler	Otherworld's Portal are 2 times more efficient	在其他維度空間的旅行者	異世界的傳送門的效率提高了2倍	이차원 공간의 여행자	이세계의 워프 게이트의 효율이 2배 증가	在其他维度空间的旅行者	异世界的传送门的效率提高了2倍
+	異世界への突破者	異世界のワープゲートの効率が2倍になる	Otherworld's Seeker	Otherworld's Portal are 2 times more efficient	穿越到其他世界的人	異世界的傳送門的效率提高了2倍	이세계로의 돌파자	이세계의 워프 게이트의 효율이 2배 증가	穿越到其他世界的人	异世界的传送门的效率提高了2倍
+	遥かなる世界の冒険者	異世界のワープゲートの効率が2倍になる	Otherworld's Adventurer	Otherworld's Portal are 2 times more efficient	遙遠世界的冒險者	異世界的傳送門的效率提高了2倍	머나먼 세계의 모험가	이세계의 워프 게이트의 효율이 2배 증가	遥远世界的冒险者	异世界的传送门的效率提高了2倍
+	テレポーター	異世界のワープゲートの効率が2倍になる	Teleporter	Otherworld's Portal are 2 times more efficient	遙感者	異世界的傳送門的效率提高了2倍	텔레포터	이세계의 워프 게이트의 효율이 2배 증가	遥感者	异世界的传送门的效率提高了2倍
+	異界のエキスパート	異世界のワープゲートの効率が2倍になる	Expert of Otherworlds	Otherworld's Portal are 2 times more efficient	其他世界的專家	異世界的傳送門的效率提高了2倍	이계의 전문가	이세계의 워프 게이트의 효율이 2배 증가	其他世界的专家	异世界的传送门的效率提高了2倍
+	次元の鍵	異世界のワープゲートの効率が2倍になる	Keys of Dimension	Otherworld's Portal are 2 times more efficient	通往維度的鑰匙	異世界的傳送門的效率提高了2倍	차원의 열쇠	이세계의 워프 게이트의 효율이 2배 증가	通往维度的钥匙	异世界的传送门的效率提高了2倍
+	平面移動の達人	異世界のワープゲートの効率が2倍になる	Expert of Dimension Shift	Otherworld's Portal are 2 times more efficient	平面旅行的大師	異世界的傳送門的效率提高了2倍	평면 이동의 달인	이세계의 워프 게이트의 효율이 2배 증가	平面旅行的大师	异世界的传送门的效率提高了2倍
+	スペース・シフター	異世界のワープゲートの効率が5倍になる	Space Shifter	Otherworld's Portal are 5 times more efficient	空間轉換者	異世界的傳送門的效率提高了5倍	스페이스 시프터	이세계의 워프 게이트의 효율이 5배 증가	空间转换者	异世界的传送门的效率提高了5倍
+	異界の鍵を握る者	異世界のワープゲートの効率が2倍になる	Holder of Key to Otherworld	Otherworld's Portal are 2 times more efficient	通往異世界的鑰匙	異世界的傳送門的效率提高了2倍	이계의 열쇠를 가진 자	이세계의 워프 게이트의 효율이 2배 증가	通往异世界的钥匙	异世界的传送门的效率提高了2倍
+	ワープゲートの管理人	異世界のワープゲートの効率が2倍になる	Gatekeeper of Portal	Otherworld's Portal are 2 times more efficient	經緯度守門員	異世界的傳送門的效率提高了2倍	워프 게이트의 관리인	이세계의 워프 게이트의 효율이 2배 증가	经纬度守门员	异世界的传送门的效率提高了2倍
+	次元の扉番	異世界のワープゲートの効率が2倍になる	Gatekeeper of Dimension	Otherworld's Portal are 2 times more efficient	維度守門人	異世界的傳送門的效率提高了2倍	차원의 문지기	이세계의 워프 게이트의 효율이 2배 증가	维度守门人	异世界的传送门的效率提高了2倍
+	運命の分岐点を超える者	異世界のワープゲートの効率が2倍になる	One who changes his fates	Otherworld's Portal are 2 times more efficient	命運之叉的超越者	異世界的傳送門的效率提高了2倍	운명의 분기점을 넘나드는 자	이세계의 워프 게이트의 효율이 2배 증가	命运之叉的超越者	异世界的传送门的效率提高了2倍
+	異次元の観測者	異世界のワープゲートの効率が3倍になる	Observers of Other Dimensions	Otherworld's Portal are 3 times more efficient	其他維度的觀察者	異世界的傳送門的效率提高了3倍	이차원의 관찰자	이세계의 워프 게이트의 효율이 3배 증가	其他维度的观察者	异世界的传送门的效率提高了3倍
+	平行世界の歩き方マスター	異世界のワープゲートの効率が3倍になる	Master of Parallel Worlds	Otherworld's Portal are 3 times more efficient	平行世界的行走者	異世界的傳送門的效率提高了3倍	평행세계의 길잡이	이세계의 워프 게이트의 효율이 3배 증가	平行世界的行走者	异世界的传送门的效率提高了3倍
+	ゲートウォッチャー	異世界のワープゲートの効率が3倍になる	Gate Watchers	Otherworld's Portal are 3 times more efficient	門的觀察者	異世界的傳送門的效率提高了3倍	게이트 감시자	이세계의 워프 게이트의 효율이 3배 증가	门的观察者	异世界的传送门的效率提高了3倍
+	時空を超える者	異世界のワープゲートの効率が3倍になる	Transcenders of Time and Space	Otherworld's Portal are 3 times more efficient	時間和空間的超越者	異世界的傳送門的效率提高了3倍	시공간을 넘나드는 자	이세계의 워프 게이트의 효율이 3배 증가	时间和空间的超越者	异世界的传送门的效率提高了3倍
+	インターディメンショナル・トラベラー	異世界のワープゲートの効率が5倍になる	Interdimensional Traveler	Otherworld's Portal are 5 times more efficient	跨維度旅行者	異世界的傳送門的效率提高了5倍	차원 간 여행자	이세계의 워프 게이트의 효율이 5배 증가	跨维度旅行者	异世界的传送门的效率提高了5倍
+	墓地の主	冥界への扉の効率が2倍になる	Lord of Graveyard	Gate to the Underworld are 2 times more efficient	墓地之主	通往冥界之門的效率提高了2倍	묘지의 주인	지하세계의 문의 효율이 2배 증가	墓地之主	通往冥界之门的效率提高了2倍
+	ネクロマンサー	冥界への扉の効率が2倍になる	Necromancer	Gate to the Underworld are 2 times more efficient	亡靈法師	通往冥界之門的效率提高了2倍	네크로맨서	지하세계의 문의 효율이 2배 증가	亡灵法师	通往冥界之门的效率提高了2倍
+	亡者の道標	冥界への扉の効率が2倍になる	Beacon of the Dead	Gate to the Underworld are 2 times more efficient	逝者的路標	通往冥界之門的效率提高了2倍	망자의 길잡이	지하세계의 문의 효율이 2배 증가	逝者的路标	通往冥界之门的效率提高了2倍
+	幽冥の羽衣使い	冥界への扉の効率が2倍になる	Ghostly Raiment-wearers	Gate to the Underworld are 2 times more efficient	幽靈般的羽毛佩戴者	通往冥界之門的效率提高了2倍	유령의 깃털꾼	지하세계의 문의 효율이 2배 증가	幽灵般的羽毛佩戴者	通往冥界之门的效率提高了2倍
+	霊界の番人	冥界への扉の効率が2倍になる	Keeper of the Spirit Realm	Gate to the Underworld are 2 times more efficient	靈魂世界的守護者	通往冥界之門的效率提高了2倍	영계의 수호자	지하세계의 문의 효율이 2배 증가	灵魂世界的守护者	通往冥界之门的效率提高了2倍
+	亡霊の代弁者	冥界への扉の効率が2倍になる	Speaker of the Ghost	Gate to the Underworld are 2 times more efficient	離世者的發言人	通往冥界之門的效率提高了2倍	망자의 대변자	지하세계의 문의 효율이 2배 증가	离世者的发言人	通往冥界之门的效率提高了2倍
+	冥土の案内人	冥界への扉の効率が2倍になる	Guide of the Underworld	Gate to the Underworld are 2 times more efficient	冥界的嚮導	通往冥界之門的效率提高了2倍	지하세계의 안내자	지하세계의 문의 효율이 2배 증가	冥界的向导	通往冥界之门的效率提高了2倍
+	骸を司る者	冥界への扉の効率が2倍になる	Master of Corpse	Gate to the Underworld are 2 times more efficient	殘骸的主人	通往冥界之門的效率提高了2倍	죽음을 다스리는 자	지하세계의 문의 효율이 2배 증가	残骸的主人	通往冥界之门的效率提高了2倍
+	オルペウスの後継者	冥界への扉の効率が5倍になる	Successor of Orpheus	Gate to the Underworld are 5 times more efficient	奧菲斯的繼承人	通往冥界之門的效率提高了5倍	오르페우스의 후계자	지하세계의 문의 효율이 5배 증가	奥菲斯的继承人	通往冥界之门的效率提高了5倍
+	冥界の大賢者	冥界への扉の効率が2倍になる	Great Sage of the Underworld	Gate to the Underworld are 2 times more efficient	冥界的大賢者	通往冥界之門的效率提高了2倍	지하세계의 대현자	지하세계의 문의 효율이 2배 증가	冥界的大贤者	通往冥界之门的效率提高了2倍
+	アンダーワールドの聖職者	冥界への扉の効率が2倍になる	Cleric of the Underworld	Gate to the Underworld are 2 times more efficient	冥界的教士	通往冥界之門的效率提高了2倍	언더월드의 성직자	지하세계의 문의 효율이 2배 증가	冥界的教士	通往冥界之门的效率提高了2倍
+	冥府の召使い	冥界への扉の効率が2倍になる	Servant of the Underworld	Gate to the Underworld are 2 times more efficient	冥界的僕人	通往冥界之門的效率提高了2倍	지하세계의 하인	지하세계의 문의 효율이 2배 증가	冥界的仆人	通往冥界之门的效率提高了2倍
+	冥界ホテルのVIP	冥界への扉の効率が2倍になる	VIP of the Underworld Hotel	Gate to the Underworld are 2 times more efficient	冥界酒店的貴賓	通往冥界之門的效率提高了2倍	지하세계 호텔의 VIP	지하세계의 문의 효율이 2배 증가	冥界酒店的贵宾	通往冥界之门的效率提高了2倍
+	冥王の友人	冥界への扉の効率が3倍になる	Friend of Hades	Gate to the Underworld are 3 times more efficient	冥界的朋友	通往冥界之門的效率提高了3倍	마왕의 친구	지하세계의 문의 효율이 3배 증가	冥界的朋友	通往冥界之门的效率提高了3倍
+	超高速エレベーターの使い手	冥界への扉の効率が3倍になる	User of Super Fast Elevator	Gate to the Underworld are 3 times more efficient	超快電梯的使用者	通往冥界之門的效率提高了3倍	초고속 엘리베이터 사용자	지하세계의 문의 효율이 3배 증가	超快电梯的使用者	通往冥界之门的效率提高了3倍
+	地下10000階	冥界への扉の効率が3倍になる	10,000 Basement Floor	Gate to the Underworld are 3 times more efficient	地下1,000層	通往冥界之門的效率提高了3倍	지하 10000층	지하세계의 문의 효율이 3배 증가	地下1,000层	通往冥界之门的效率提高了3倍
+	悪魔とは違うんです	冥界への扉の効率が3倍になる	I am not a demon	Gate to the Underworld are 3 times more efficient	他不是一個惡魔	通往冥界之門的效率提高了3倍	악마와는 다릅니다	지하세계의 문의 효율이 3배 증가	他不是一个恶魔	通往冥界之门的效率提高了3倍
+	蝕まれた死神	冥界への扉の効率が5倍になる	Corrupted Reaper	Gate to the Underworld are 5 times more efficient	冥界的收割者	通往冥界之門的效率提高了5倍	타락한 사신	지하세계의 문의 효율이 5배 증가	冥界的收割者	通往冥界之门的效率提高了5倍
+	霊峰を仰ぎ見る者	霊峰の雲海の効率が2倍になる	The one who looks up to the sacred mountain	Clouds of Sacred Mountain are 2 times more efficient	仰望聖山的人	雲霧之海的效率提高了2倍	영봉을 바라보는 자	영봉의 운해의 효율이 2배 증가	仰望圣山的人	云雾之海的效率提高了2倍
+	霧に包まれる冒険者	霊峰の雲海の効率が2倍になる	The adventurer shrouded in mist	Clouds of Sacred Mountain are 2 times more efficient	籠罩在迷霧中的冒險者	雲霧之海的效率提高了2倍	안개에 휩싸인 모험가	영봉의 운해의 효율이 2배 증가	笼罩在迷雾中的冒险者	云雾之海的效率提高了2倍
+	天空の夢を追いかける人	霊峰の雲海の効率が2倍になる	The one who chases dreams of sky	Clouds of Sacred Mountain are 2 times more efficient	天人合一的追夢人	雲霧之海的效率提高了2倍	하늘의 꿈을 쫓는 사람	영봉의 운해의 효율이 2배 증가	天人合一的追梦人	云雾之海的效率提高了2倍
+	神秘の山頂	霊峰の雲海の効率が2倍になる	The Mysterious Mountaintop	Clouds of Sacred Mountain are 2 times more efficient	神秘的山峰	雲霧之海的效率提高了2倍	신비한 산봉우리	영봉의 운해의 효율이 2배 증가	神秘的山峰	云雾之海的效率提高了2倍
+	山脈を渡る者	霊峰の雲海の効率が2倍になる	Those who crosses the mountain range	Clouds of Sacred Mountain are 2 times more efficient	穿越山脈的人	雲霧之海的效率提高了2倍	산맥을 건너는 자	영봉의 운해의 효율이 2배 증가	穿越山脉的人	云雾之海的效率提高了2倍
+	頂上に近づく者	霊峰の雲海の効率が2倍になる	Those who approach the summit	Clouds of Sacred Mountain are 2 times more efficient	接近山頂的人	雲霧之海的效率提高了2倍	정상에 접근하는 자	영봉의 운해의 효율이 2배 증가	接近山顶的人	云雾之海的效率提高了2倍
+	頂上に立つ者	霊峰の雲海の効率が2倍になる	Those who stand on the summit	Clouds of Sacred Mountain are 2 times more efficient	站在山頂的人	雲霧之海的效率提高了2倍	정상에 서는 자	영봉의 운해의 효율이 2배 증가	站在山顶的人	云雾之海的效率提高了2倍
+	雲海を見下ろす者	霊峰の雲海の効率が2倍になる	Those who look down to Clouds of Sacred Mountain	Clouds of Sacred Mountain are 2 times more efficient	俯視雲海的人	雲霧之海的效率提高了2倍	구름 바다를 내려다보는 자	영봉의 운해의 효율이 2배 증가	俯视云海的人	云雾之海的效率提高了2倍
+	悠久の山脈	霊峰の雲海の効率が5倍になる	Mountains of Eternity	Clouds of Sacred Mountain are 5 times more efficient	永恆的山峰	雲霧之海的效率提高了5倍	유구한 산맥	영봉의 운해의 효율이 5배 증가	永恒的山峰	云雾之海的效率提高了5倍
+	霊峰の宝物	霊峰の雲海の効率が2倍になる	Treasures of Sacred Mountain	Clouds of Sacred Mountain are 2 times more efficient	神聖山峰的寶藏	雲霧之海的效率提高了2倍	영봉의 보물	영봉의 운해의 효율이 2배 증가	神圣山峰的宝藏	云雾之海的效率提高了2倍
+	霊峰を統べる者	霊峰の雲海の効率が2倍になる	Ruler of Sacred Mountains	Clouds of Sacred Mountain are 2 times more efficient	掌管聖峰的人	雲霧之海的效率提高了2倍	영봉을 다스리는 자	영봉의 운해의 효율이 2배 증가	掌管圣峰的人	云雾之海的效率提高了2倍
+	空高く舞う者	霊峰の雲海の効率が2倍になる	Those who soars high in the sky	Clouds of Sacred Mountain are 2 times more efficient	翱翔於高空的人	雲霧之海的效率提高了2倍	하늘 높이 날아오르는 자	영봉의 운해의 효율이 2배 증가	翱翔于高空的人	云雾之海的效率提高了2倍
+	そよ風を操る者	霊峰の雲海の効率が2倍になる	Wielder of Gentle Breeze	Clouds of Sacred Mountain are 2 times more efficient	控制輕柔的微風的人	雲霧之海的效率提高了2倍	산들바람을 조종하는 자	영봉의 운해의 효율이 2배 증가	控制轻柔的微风的人	云雾之海的效率提高了2倍
+	雲を越えて	霊峰の雲海の効率が3倍になる	Beyond the clouds	Clouds of Sacred Mountain are 3 times more efficient	雲層之外	雲霧之海的效率提高了3倍	구름을 넘어	영봉의 운해의 효율이 3배 증가	云层之外	云雾之海的效率提高了3倍
+	霊峰の絶頂	霊峰の雲海の効率が3倍になる	The peak of the sacred mountain	Clouds of Sacred Mountain are 3 times more efficient	聖山之巔	雲霧之海的效率提高了3倍	영봉의 절정	영봉의 운해의 효율이 3배 증가	圣山之巅	云雾之海的效率提高了3倍
+	空の彼方へ	霊峰の雲海の効率が3倍になる	Beyond the sky	Clouds of Sacred Mountain are 3 times more efficient	在天空之外	雲霧之海的效率提高了3倍	하늘 저편으로	영봉의 운해의 효율이 3배 증가	在天空之外	云雾之海的效率提高了3倍
+	雲の上の王者	霊峰の雲海の効率が3倍になる	Champion of above the clouds	Clouds of Sacred Mountain are 3 times more efficient	雲端之上的冠軍	雲霧之海的效率提高了3倍	구름 위의 왕자	영봉의 운해의 효율이 3배 증가	云端之上的冠军	云雾之海的效率提高了3倍
+	大空の覇者	霊峰の雲海の効率が5倍になる	Champion of the Sky	Clouds of Sacred Mountain are 5 times more efficient	天空中的冠軍	雲霧之海的效率提高了5倍	대공의 패자	영봉의 운해의 효율이 5배 증가	天空中的冠军	云雾之海的效率提高了5倍
+	宇宙の冒険家	コスモスの船の効率が2倍になる	Adventurer of the Universe	Cosmos Ship are 2 times more efficient	太空中的冒險家	宇宙之船的效率提高了2倍	우주 모험가	코스모스의 방주의 효율이 2배 증가	太空中的冒险家	宇宙之船的效率提高了2倍
+	惑星の探検家	コスモスの船の効率が2倍になる	Explorer of Planets	Cosmos Ship are 2 times more efficient	行星的探索者	宇宙之船的效率提高了2倍	행성 탐험가	코스모스의 방주의 효율이 2배 증가	行星的探索者	宇宙之船的效率提高了2倍
+	時間と空間の旅人	コスモスの船の効率が2倍になる	Time and Space Travelers	Cosmos Ship are 2 times more efficient	時間和空間的旅行者	宇宙之船的效率提高了2倍	시간과 공간의 여행자	코스모스의 방주의 효율이 2배 증가	时间和空间的旅行者	宇宙之船的效率提高了2倍
+	星間航海士	コスモスの船の効率が2倍になる	Astral Navigators	Cosmos Ship are 2 times more efficient	星際航行者	宇宙之船的效率提高了2倍	성간 항해자	코스모스의 방주의 효율이 2배 증가	星际航行者	宇宙之船的效率提高了2倍
+	重力の踏破者	コスモスの船の効率が3倍になる	Gravity Walkers	Cosmos Ship are 3 times more efficient	地心引力的踩踏者	宇宙之船的效率提高了3倍	중력파괴자	코스모스의 방주의 효율이 3배 증가	地心引力的踩踏者	宇宙之船的效率提高了3倍
+	エイリアンの通訳	コスモスの船の効率が2倍になる	Alien Interpreters	Cosmos Ship are 2 times more efficient	外星人解釋者	宇宙之船的效率提高了2倍	외계인 통역사	코스모스의 방주의 효율이 2배 증가	外星人解释者	宇宙之船的效率提高了2倍
+	クエーサーの軌跡	コスモスの船の効率が5倍になる	Quasar Trails	Cosmos Ship are 5 times more efficient	類星體的追踪者	宇宙之船的效率提高了5倍	퀘이사의 궤적	코스모스의 방주의 효율이 5배 증가	类星体的追踪者	宇宙之船的效率提高了5倍
+	宇宙の彷徨者	コスモスの船の効率が2倍になる	Wanderers of the Universe	Cosmos Ship are 2 times more efficient	空間漫遊者	宇宙之船的效率提高了2倍	우주의 방랑자	코스모스의 방주의 효율이 2배 증가	空间漫游者	宇宙之船的效率提高了2倍
+	超光速の航跡	コスモスの船の効率が10倍になる	Superluminal Trails	Cosmos Ship are 10 times more efficient	超光速喚醒者	宇宙之船的效率提高了10倍	초광속 항해자	코스모스의 방주의 효율이 10배 증가	超光速唤醒者	宇宙之船的效率提高了10倍
+	ガラクタ収集家	コスモスの船の効率が2倍になる	Junk Collectors	Cosmos Ship are 2 times more efficient	垃圾收集者	宇宙之船的效率提高了2倍	잡동사니 수집가	코스모스의 방주의 효율이 2배 증가	垃圾收集者	宇宙之船的效率提高了2倍
+	銀河のカジノの常連客	コスモスの船の効率が2倍になる	Galactic Casino Patron	Cosmos Ship are 2 times more efficient	銀河系賭場的顧客	宇宙之船的效率提高了2倍	은하계 카지노의 단골손님	코스모스의 방주의 효율이 2배 증가	银河系赌场的顾客	宇宙之船的效率提高了2倍
+	宇宙の猫好き	コスモスの船の効率が2倍になる	Space Cat Lover	Cosmos Ship are 2 times more efficient	太空貓愛好者	宇宙之船的效率提高了2倍	우주의 고양이 애호가	코스모스의 방주의 효율이 2배 증가	太空猫爱好者	宇宙之船的效率提高了2倍
+	銀河系一周旅行者	コスモスの船の効率が5倍になる	Galactic Traveler	Cosmos Ship are 5 times more efficient	銀河系的環行者	宇宙之船的效率提高了5倍	은하계 일주 여행자	코스모스의 방주의 효율이 5배 증가	银河系的环行者	宇宙之船的效率提高了5倍
+	エイリアン語の翻訳者	コスモスの船の効率が2倍になる	Alien Language Translator	Cosmos Ship are 2 times more efficient	外星語言翻譯者	宇宙之船的效率提高了2倍	외계어 번역가	코스모스의 방주의 효율이 2배 증가	外星语言翻译者	宇宙之船的效率提高了2倍
+	天体観測マニア	コスモスの船の効率が2倍になる	Stargazing Maniac	Cosmos Ship are 2 times more efficient	天文愛好者	宇宙之船的效率提高了2倍	천체 관측 마니아	코스모스의 방주의 효율이 2배 증가	天文爱好者	宇宙之船的效率提高了2倍
+	銀河のアイドル	コスモスの船の効率が2倍になる	Galactic Idol	Cosmos Ship are 2 times more efficient	銀河系的偶像	宇宙之船的效率提高了2倍	은하계 아이돌	코스모스의 방주의 효율이 2배 증가	银河系的偶像	宇宙之船的效率提高了2倍
+	星座のマスター	コスモスの船の効率が2倍になる	Constellation Master	Cosmos Ship are 2 times more efficient	星座的主人	宇宙之船的效率提高了2倍	별자리 마스터	코스모스의 방주의 효율이 2배 증가	星座的主人	宇宙之船的效率提高了2倍
+	宇宙のビーガン	コスモスの船の効率が5倍になる	Space Vegans	Cosmos Ship are 5 times more efficient	太空素食主義者	宇宙之船的效率提高了5倍	우주의 채식주의자	코스모스의 방주의 효율이 5배 증가	太空素食主义者	宇宙之船的效率提高了5倍
+	星の読み手	アースガルズの預言者の効率が2倍になる	Star Reader	Prophet of the Asgard are 2 times more efficient	星空讀者	阿斯加德的先知的效率提高了2倍	별을 읽는 사람	아스가르드의 예언자의 효율이 2배 증가	星空读者	阿斯加德的先知的效率提高了2倍
+	知識の保持者	アースガルズの預言者の効率が2倍になる	Keepers of Knowledge	Prophet of the Asgard are 2 times more efficient	知識的守護者	阿斯加德的先知的效率提高了2倍	지식의 소유자	아스가르드의 예언자의 효율이 2배 증가	知识的守护者	阿斯加德的先知的效率提高了2倍
+	未来を見通す者	アースガルズの預言者の効率が2倍になる	Future Prophet	Prophet of the Asgard are 2 times more efficient	未來的預言家	阿斯加德的先知的效率提高了2倍	미래를 보는 자	아스가르드의 예언자의 효율이 2배 증가	未来的预言家	阿斯加德的先知的效率提高了2倍
+	天啓を受ける者	アースガルズの預言者の効率が2倍になる	Revelation Receiver	Prophet of the Asgard are 2 times more efficient	啟示的接受者	阿斯加德的先知的效率提高了2倍	계시를 받는 자	아스가르드의 예언자의 효율이 2배 증가	启示的接受者	阿斯加德的先知的效率提高了2倍
+	宇宙の謎を解く者	アースガルズの預言者の効率が3倍になる	Solvers of Universe Mysteries	Prophet of the Asgard are 3 times more efficient	解開宇宙之謎的人	阿斯加德的先知的效率提高了3倍	우주의 수수께끼를 푸는 자	아스가르드의 예언자의 효율이 3배 증가	解开宇宙之谜的人	阿斯加德的先知的效率提高了3倍
+	神秘的な訪問者	アースガルズの預言者の効率が2倍になる	The Mysterious Visitor	Prophet of the Asgard are 2 times more efficient	神秘的訪客	阿斯加德的先知的效率提高了2倍	신비한 방문자	아스가르드의 예언자의 효율이 2배 증가	神秘的访客	阿斯加德的先知的效率提高了2倍
+	神々の声を聞く者	アースガルズの預言者の効率が2倍になる	One who hears the Gods' voice	Prophet of the Asgard are 2 times more efficient	聽見神靈聲音的人	阿斯加德的先知的效率提高了2倍	신의 음성을 듣는 자	아스가르드의 예언자의 효율이 2배 증가	听见神灵声音的人	阿斯加德的先知的效率提高了2倍
+	霊的感受性を持つ者	アースガルズの預言者の効率が2倍になる	One who has spiritual sensitivity	Prophet of the Asgard are 2 times more efficient	具有精神敏感性的人	阿斯加德的先知的效率提高了2倍	영적 감수성을 가진 자	아스가르드의 예언자의 효율이 2배 증가	具有精神敏感性的人	阿斯加德的先知的效率提高了2倍
+	時空を超える者	アースガルズの預言者の効率が2倍になる	Transcenders of Time and Space	Prophet of the Asgard are 2 times more efficient	超越時間和空間的人	阿斯加德的先知的效率提高了2倍	시공간을 초월하는 자	아스가르드의 예언자의 효율이 2배 증가	超越时间和空间的人	阿斯加德的先知的效率提高了2倍
+	知識と英知を結集する者	アースガルズの預言者の効率が5倍になる	Gatherers of Wisdom and Knowledge	Prophet of the Asgard are 5 times more efficient	凝聚知識和智慧的人	阿斯加德的先知的效率提高了5倍	지식과 지혜를 모으는 자	아스가르드의 예언자의 효율이 5배 증가	凝聚知识和智慧的人	阿斯加德的先知的效率提高了5倍
+	暗黒を照らす者	アースガルズの預言者の効率が2倍になる	Illuminator of Darkness	Prophet of the Asgard are 2 times more efficient	照亮黑暗的人	阿斯加德的先知的效率提高了2倍	어둠을 밝히는 자	아스가르드의 예언자의 효율이 2배 증가	照亮黑暗的人	阿斯加德的先知的效率提高了2倍
+	運命を変える者	アースガルズの預言者の効率が2倍になる	Destiny Changer	Prophet of the Asgard are 2 times more efficient	改變命運的人	阿斯加德的先知的效率提高了2倍	운명을 바꾸는 자	아스가르드의 예언자의 효율이 2배 증가	改变命运的人	阿斯加德的先知的效率提高了2倍
+	幸運を招く者	アースガルズの預言者の効率が5倍になる	Fortune Bringer	Prophet of the Asgard are 5 times more efficient	帶來好運的人	阿斯加德的先知的效率提高了5倍	행운을 부르는 자	아스가르드의 예언자의 효율이 5배 증가	带来好运的人	阿斯加德的先知的效率提高了5倍
+	神聖なる目的を果たす者	アースガルズの預言者の効率が3倍になる	Fulfiller of Sacred Purposes	Prophet of the Asgard are 3 times more efficient	實現神聖目的的人	阿斯加德的先知的效率提高了3倍	신성한 목적을 이루는 자	아스가르드의 예언자의 효율이 3배 증가	实现神圣目的的人	阿斯加德的先知的效率提高了3倍
+	神話の力を司る者	アースガルズの預言者の効率が3倍になる	Wielder of Myth's Power	Prophet of the Asgard are 3 times more efficient	主持神話力量的人	阿斯加德的先知的效率提高了3倍	신화의 힘을 관장하는 자	아스가르드의 예언자의 효율이 3배 증가	主持神话力量的人	阿斯加德的先知的效率提高了3倍
+	神の導きに従う者	アースガルズの預言者の効率が3倍になる	Follower of Divine Guidance	Prophet of the Asgard are 3 times more efficient	遵循神的指引的人	阿斯加德的先知的效率提高了3倍	신의 인도를 따르는 자	아스가르드의 예언자의 효율이 3배 증가	遵循神的指引的人	阿斯加德的先知的效率提高了3倍
+	神々の知恵を宿す者	アースガルズの預言者の効率が3倍になる	Wielder of Gods' Wisdom	Prophet of the Asgard are 3 times more efficient	擁有諸神智慧的人	阿斯加德的先知的效率提高了3倍	신들의 지혜를 지닌 자	아스가르드의 예언자의 효율이 3배 증가	拥有诸神智慧的人	阿斯加德的先知的效率提高了3倍
+	伝説の予言者	アースガルズの預言者の効率が5倍になる	The Legendary Prophet	Prophet of the Asgard are 5 times more efficient	傳說中的先知	阿斯加德的先知的效率提高了5倍	전설의 예언자	아스가르드의 예언자의 효율이 5배 증가	传说中的先知	阿斯加德的先知的效率提高了5倍
+	知識の獲得者	伝説の法典の効率が2倍になる	Gatherers of Knowledge	The Legendary Codex are 2 times more efficient	知識的收集者	傳說的法典的效率提高了2倍	지식의 획득자	전설의 법전의 효율이 2배 증가	知识的收集者	传说的法典的效率提高了2倍
+	古代の遺産を探す者	伝説の法典の効率が2倍になる	Seekers of Ancient Heritage	The Legendary Codex are 2 times more efficient	古代遺產的探索者	傳說的法典的效率提高了2倍	고대 유산을 찾는 자	전설의 법전의 효율이 2배 증가	古代遗产的探索者	传说的法典的效率提高了2倍
+	法典の鑑定士	伝説の法典の効率が2倍になる	Appraiser of Codex	The Legendary Codex are 2 times more efficient	密碼的鑑賞家	傳說的法典的效率提高了2倍	법전 감정가	전설의 법전의 효율이 2배 증가	密码的鉴赏家	传说的法典的效率提高了2倍
+	古代の聖なる書	伝説の法典の効率が2倍になる	Sacred Book of Ancient Times	The Legendary Codex are 2 times more efficient	古代的聖書	傳說的法典的效率提高了2倍	고대의 성서	전설의 법전의 효율이 2배 증가	古代的圣书	传说的法典的效率提高了2倍
+	知識の集積者	伝説の法典の効率が2倍になる	Accumulator of Knowledge	The Legendary Codex are 2 times more efficient	知識的積聚者	傳說的法典的效率提高了2倍	지식의 수집가	전설의 법전의 효율이 2배 증가	知识的积聚者	传说的法典的效率提高了2倍
+	聖典の復元者	伝説の法典の効率が2倍になる	Restorer of Scriptures	The Legendary Codex are 2 times more efficient	神聖經文的恢復者	傳說的法典的效率提高了2倍	성서 복원자	전설의 법전의 효율이 2배 증가	神圣经文的恢复者	传说的法典的效率提高了2倍
+	聖典の復元者	伝説の法典の効率が2倍になる	Restorer of the Sacred Scriptures	The Legendary Codex are 2 times more efficient	聖經的恢復者	傳說的法典的效率提高了2倍	성서 복원자	전설의 법전의 효율이 2배 증가	圣经的恢复者	传说的法典的效率提高了2倍
+	書物の番人	伝説の法典の効率が2倍になる	Keeper of the Books	The Legendary Codex are 2 times more efficient	書籍的守護者	傳說的法典的效率提高了2倍	서적의 수호자	전설의 법전의 효율이 2배 증가	书籍的守护者	传说的法典的效率提高了2倍
+	知識の泉	伝説の法典の効率が5倍になる	Fountain of Knowledge	The Legendary Codex are 5 times more efficient	知識的源泉	傳說的法典的效率提高了5倍	지식의 샘	전설의 법전의 효율이 5배 증가	知识的源泉	传说的法典的效率提高了5倍
+	伝説の図書館員	伝説の法典の効率が2倍になる	The Legendary Librarian	The Legendary Codex are 2 times more efficient	傳說中的圖書館員	傳說的法典的效率提高了2倍	전설의 사서	전설의 법전의 효율이 2배 증가	传说中的图书馆员	传说的法典的效率提高了2倍
+	聖域の探求者	伝説の法典の効率が2倍になる	Seeker of Sanctuary	The Legendary Codex are 2 times more efficient	聖地的探索者	傳說的法典的效率提高了2倍	성역의 탐구자	전설의 법전의 효율이 2배 증가	圣地的探索者	传说的法典的效率提高了2倍
+	法典の黄金編集者	伝説の法典の効率が3倍になる	Golden Editors of the Codex	The Legendary Codex are 3 times more efficient	代碼的黃金編輯者	傳說的法典的效率提高了3倍	경전의 황금 편집자	전설의 법전의 효율이 3배 증가	代码的黄金编辑者	传说的法典的效率提高了3倍
+	神託の解読者	伝説の法典の効率が2倍になる	Decipherer of Oracles	The Legendary Codex are 2 times more efficient	神諭的破譯者	傳說的法典的效率提高了2倍	신탁의 해독자	전설의 법전의 효율이 2배 증가	神谕的破译者	传说的法典的效率提高了2倍
+	魔法の再創造者	伝説の法典の効率が3倍になる	Recreator of Magic	The Legendary Codex are 3 times more efficient	神奇的再創造者	傳說的法典的效率提高了3倍	마법의 재창조자	전설의 법전의 효율이 3배 증가	神奇的再创造者	传说的法典的效率提高了3倍
+	早読み魔人	伝説の法典の効率が3倍になる	Rapid Reader	The Legendary Codex are 3 times more efficient	快速閱讀專業人員	傳說的法典的效率提高了3倍	속독 마인	전설의 법전의 효율이 3배 증가	快速阅读专业人员	传说的法典的效率提高了3倍
+	ネタバレ注意報	伝説の法典の効率が3倍になる	Spoiler Alert	The Legendary Codex are 3 times more efficient	擾流板警報	傳說的法典的效率提高了3倍	스포일러 주의보	전설의 법전의 효율이 3배 증가	扰流板警报	传说的法典的效率提高了3倍
+	ページめくりの達人	伝説の法典の効率が3倍になる	Master of the page-turner	The Legendary Codex are 3 times more efficient	翻書的大師	傳說的法典的效率提高了3倍	페이지 넘기기의 달인	전설의 법전의 효율이 3배 증가	翻书的大师	传说的法典的效率提高了3倍
+	古代魔法の継承者	伝説の法典の効率が5倍になる	Successor of Ancient Magic	The Legendary Codex are 5 times more efficient	古老魔法的繼承者	傳說的法典的效率提高了5倍	고대 마법의 계승자	전설의 법전의 효율이 5배 증가	古老魔法的继承者	传说的法典的效率提高了5倍
+	光を遮るもの	神々の光芒の効率が2倍になる	The one who blocks the light	Light of the Gods are 2 times more efficient	擋住光的東西	諸神的光輝的效率提高了2倍	빛을 가리는 것	신들의 광채의 효율이 2배 증가	挡住光的东西	诸神的光辉的效率提高了2倍
+	光と闇のバランス	神々の光芒の効率が2倍になる	Balance of Light and Darkness	Light of the Gods are 2 times more efficient	光明與黑暗之間的平衡	諸神的光輝的效率提高了2倍	빛과 어둠의 균형	신들의 광채의 효율이 2배 증가	光明与黑暗之间的平衡	诸神的光辉的效率提高了2倍
+	輝きに包まれる者	神々の光芒の効率が2倍になる	The one who is surrounded by radiance	Light of the Gods are 2 times more efficient	被光芒包圍的人	諸神的光輝的效率提高了2倍	빛에 둘러싸인 자	신들의 광채의 효율이 2배 증가	被光芒包围的人	诸神的光辉的效率提高了2倍
+	煌めく大地	神々の光芒の効率が2倍になる	The Shimmering Earth	Light of the Gods are 2 times more efficient	波光粼粼的大地	諸神的光輝的效率提高了2倍	반짝이는 대지	신들의 광채의 효율이 2배 증가	波光粼粼的大地	诸神的光辉的效率提高了2倍
+	輝かしい瞬間	神々の光芒の効率が2倍になる	Moments of Shining	Light of the Gods are 2 times more efficient	輝煌的時刻	諸神的光輝的效率提高了2倍	찬란한 순간	신들의 광채의 효율이 2배 증가	辉煌的时刻	诸神的光辉的效率提高了2倍
+	光を纏う者	神々の光芒の効率が2倍になる	The one who is clothed in light	Light of the Gods are 2 times more efficient	那些身著光的人	諸神的光輝的效率提高了2倍	빛을 입는 자	신들의 광채의 효율이 2배 증가	那些身着光的人	诸神的光辉的效率提高了2倍
+	光の使徒	神々の光芒の効率が2倍になる	Messenger of Light	Light of the Gods are 2 times more efficient	光明的使者	諸神的光輝的效率提高了2倍	빛의 사도	신들의 광채의 효율이 2배 증가	光明的使者	诸神的光辉的效率提高了2倍
+	光輝く守護者	神々の光芒の効率が2倍になる	Guardian of the Shining Light	Light of the Gods are 2 times more efficient	光明的守護者	諸神的光輝的效率提高了2倍	빛나는 수호자	신들의 광채의 효율이 2배 증가	光明的守护者	诸神的光辉的效率提高了2倍
+	輝きを宿す者	神々の光芒の効率が5倍になる	Wielder of Radiance	Light of the Gods are 5 times more efficient	住在光芒中的人	諸神的光輝的效率提高了5倍	빛을 품은 자	신들의 광채의 효율이 5배 증가	住在光芒中的人	诸神的光辉的效率提高了5倍
+	天上の眩しさ	神々の光芒の効率が2倍になる	Dazzlers of the Heavens	Light of the Gods are 2 times more efficient	天上的耀眼者	諸神的光輝的效率提高了2倍	천상의 눈부심	신들의 광채의 효율이 2배 증가	天上的耀眼者	诸神的光辉的效率提高了2倍
+	天空の迷宮探検家	神々の光芒の効率が2倍になる	Explorers of the Celestial Labyrinth	Light of the Gods are 2 times more efficient	天體迷宮的探索者	諸神的光輝的效率提高了2倍	천공의 미로 탐험가	신들의 광채의 효율이 2배 증가	天体迷宫的探索者	诸神的光辉的效率提高了2倍
+	虹色の翼	神々の光芒の効率が2倍になる	Wings of Rainbow	Light of the Gods are 2 times more efficient	彩虹色的翅膀	諸神的光輝的效率提高了2倍	무지개빛 날개	신들의 광채의 효율이 2배 증가	彩虹色的翅膀	诸神的光辉的效率提高了2倍
+	神のお気に入り	神々の光芒の効率が2倍になる	God's Favorite	Light of the Gods are 2 times more efficient	上帝的寵兒	諸神的光輝的效率提高了2倍	신이 가장 좋아하는 사람	신들의 광채의 효율이 2배 증가	上帝的宠儿	诸神的光辉的效率提高了2倍
+	超越者	神々の光芒の効率が3倍になる	Transcendent One	Light of the Gods are 3 times more efficient	超越者	諸神的光輝的效率提高了3倍	초월자	신들의 광채의 효율이 3배 증가	超越者	诸神的光辉的效率提高了3倍
+	光の化身	神々の光芒の効率が3倍になる	Incarnation of Light	Light of the Gods are 3 times more efficient	光的化身	諸神的光輝的效率提高了3倍	빛의 화신	신들의 광채의 효율이 3배 증가	光的化身	诸神的光辉的效率提高了3倍
+	光の約束を果たす者	神々の光芒の効率が3倍になる	One who fulfills the promise of light	Light of the Gods are 3 times more efficient	光之承諾的實現者	諸神的光輝的效率提高了3倍	빛의 약속을 이행하는 자	신들의 광채의 효율이 3배 증가	光之承诺的实现者	诸神的光辉的效率提高了3倍
+	光の信念を持つ者	神々の光芒の効率が3倍になる	Believers of Light	Light of the Gods are 3 times more efficient	光的信奉者	諸神的光輝的效率提高了3倍	빛의 신념을 가진 자	신들의 광채의 효율이 3배 증가	光的信奉者	诸神的光辉的效率提高了3倍
+	光栄なる使徒	神々の光芒の効率が5倍になる	The Honored Apostle	Light of the Gods are 5 times more efficient	尊敬的使徒	諸神的光輝的效率提高了5倍	영광스러운 사도	신들의 광채의 효율이 5배 증가	尊敬的使徒	诸神的光辉的效率提高了5倍
+	悪魔の苦手な人	地獄浄化装置の効率が2倍になる	The Devil's Bitter	Hell Purifier are 2 times more efficient	惡魔的受難者	地獄淨化器的效率提高了2倍	악마를 싫어하는 자	지옥정화장치의 효율이 2배 증가	恶魔的受难者	地狱净化器的效率提高了2倍
+	初心者の浄化士	地獄浄化装置の効率が2倍になる	Purifier Beginner	Hell Purifier are 2 times more efficient	新手淨化者	地獄淨化器的效率提高了2倍	초보 정화자	지옥정화장치의 효율이 2배 증가	新手净化者	地狱净化器的效率提高了2倍
+	罪の清算者	地獄浄化装置の効率が2倍になる	The Washer of Sins	Hell Purifier are 2 times more efficient	罪的潔淨者	地獄淨化器的效率提高了2倍	죄의 청산자	지옥정화장치의 효율이 2배 증가	罪的洁净者	地狱净化器的效率提高了2倍
+	罪の洗濯機	地獄浄化装置の効率が2倍になる	Washing Machine of Sin	Hell Purifier are 2 times more efficient	罪孽的洗滌者	地獄淨化器的效率提高了2倍	죄의 세탁기	지옥정화장치의 효율이 2배 증가	罪孽的洗涤者	地狱净化器的效率提高了2倍
+	悪霊を祓う者	地獄浄化装置の効率が2倍になる	Exorcist of Evil Spirits	Hell Purifier are 2 times more efficient	惡靈的驅趕者	地獄淨化器的效率提高了2倍	악령을 쫓는 자	지옥정화장치의 효율이 2배 증가	恶灵的驱赶者	地狱净化器的效率提高了2倍
+	修羅場の整備士	地獄浄化装置の効率が2倍になる	The Mechanic of Shura	Hell Purifier are 2 times more efficient	修羅機械師	地獄淨化器的效率提高了2倍	수라장의 정비사	지옥정화장치의 효율이 2배 증가	修罗机械师	地狱净化器的效率提高了2倍
+	地獄の浄化者	地獄浄化装置の効率が2倍になる	Purifier of Hell	Hell Purifier are 2 times more efficient	地獄的淨化者	地獄淨化器的效率提高了2倍	지옥의 정화자	지옥정화장치의 효율이 2배 증가	地狱的净化者	地狱净化器的效率提高了2倍
+	獄卒の救世主	地獄浄化装置の効率が2倍になる	Savior of Prisoners	Hell Purifier are 2 times more efficient	囚犯的救主	地獄淨化器的效率提高了2倍	감옥의 구세주	지옥정화장치의 효율이 2배 증가	囚犯的救主	地狱净化器的效率提高了2倍
+	魔界の清掃スタッフ	地獄浄化装置の効率が5倍になる	Cleaning Staff of Hell	Hell Purifier are 5 times more efficient	清理惡魔的工作人員	地獄淨化器的效率提高了5倍	마계의 청소부	지옥정화장치의 효율이 5배 증가	清理恶魔的工作人员	地狱净化器的效率提高了5倍
+	悪魔退治のエキスパート	地獄浄化装置の効率が2倍になる	Demon Extermination Expert	Hell Purifier are 2 times more efficient	消滅惡魔的專家	地獄淨化器的效率提高了2倍	악마 퇴치 전문가	지옥정화장치의 효율이 2배 증가	消灭恶魔的专家	地狱净化器的效率提高了2倍
+	地獄の扉番長	地獄浄化装置の効率が2倍になる	Hell's Gatekeeper	Hell Purifier are 2 times more efficient	地獄的看門人	地獄淨化器的效率提高了2倍	지옥의 문지기	지옥정화장치의 효율이 2배 증가	地狱的看门人	地狱净化器的效率提高了2倍
+	魔物ハンター	地獄浄化装置の効率が2倍になる	Demon Hunter	Hell Purifier are 2 times more efficient	惡魔獵手	地獄淨化器的效率提高了2倍	마물 사냥꾼	지옥정화장치의 효율이 2배 증가	恶魔猎手	地狱净化器的效率提高了2倍
+	魔物ハンター最高位	地獄浄化装置の効率が2倍になる	Demon Hunter in Highest Rank	Hell Purifier are 2 times more efficient	獵魔人的最高級別	地獄淨化器的效率提高了2倍	마물 사냥꾼 최고위	지옥정화장치의 효율이 2배 증가	猎魔人的最高级别	地狱净化器的效率提高了2倍
+	魔界のマリー・コンドー	地獄浄化装置の効率が3倍になる	Marie Kondo of Hell	Hell Purifier are 3 times more efficient	惡魔世界的Marie Condeau	地獄淨化器的效率提高了3倍	마계의 마리 콘도	지옥정화장치의 효율이 3배 증가	恶魔世界的Marie Condeau	地狱净化器的效率提高了3倍
+	サタンの散歩係	地獄浄化装置の効率が3倍になる	Satan's walker	Hell Purifier are 3 times more efficient	撒旦的行者	地獄淨化器的效率提高了3倍	사탄의 산책자	지옥정화장치의 효율이 3배 증가	撒旦的行者	地狱净化器的效率提高了3倍
+	神の左手	地獄浄化装置の効率が3倍になる	Left Hand of God	Hell Purifier are 3 times more efficient	上帝的左手	地獄淨化器的效率提高了3倍	신의 왼손	지옥정화장치의 효율이 3배 증가	上帝的左手	地狱净化器的效率提高了3倍
+	悪魔の調教師	地獄浄化装置の効率が3倍になる	Demon Trainer	Hell Purifier are 3 times more efficient	惡魔訓練師	地獄淨化器的效率提高了3倍	악마의 조련사	지옥정화장치의 효율이 3배 증가	恶魔训练师	地狱净化器的效率提高了3倍
+	地獄の大掃除人	地獄浄化装置の効率が5倍になる	Cleaner of Hell	Hell Purifier are 5 times more efficient	地獄的清潔工	地獄淨化器的效率提高了5倍	지옥의 청소부	지옥정화장치의 효율이 5배 증가	地狱的清洁工	地狱净化器的效率提高了5倍
+	次元の探検家	外の世界のトモタチの効率が2倍になる	Explorer of Dimensions	Outerworld's Friend are 2 times more efficient	維度的探索者	外部世界的朋友的效率提高了2倍	차원 탐험가	외계의 친구의 효율이 2배 증가	维度的探索者	外部世界的朋友的效率提高了2倍
+	銀河の旅人	外の世界のトモタチの効率が2倍になる	Traveler of the Galaxy	Outerworld's Friend are 2 times more efficient	銀河系的旅行者	外部世界的朋友的效率提高了2倍	은하계 여행자	외계의 친구의 효율이 2배 증가	银河系的旅行者	外部世界的朋友的效率提高了2倍
+	遥かなる世界の言語マスター	外の世界のトモタチの効率が2倍になる	The Language Master of Outerworlds	Outerworld's Friend are 2 times more efficient	遙遠世界的語言大師	外部世界的朋友的效率提高了2倍	머나먼 세계의 언어의 대가	외계의 친구의 효율이 2배 증가	遥远世界的语言大师	外部世界的朋友的效率提高了2倍
+	世界を開拓する者	外の世界のトモタチの効率が2倍になる	Pioneer of the World	Outerworld's Friend are 2 times more efficient	世界探索者	外部世界的朋友的效率提高了2倍	세계 개척자	외계의 친구의 효율이 2배 증가	世界探索者	外部世界的朋友的效率提高了2倍
+	自然観察家	外の世界のトモタチの効率が2倍になる	Observers of Nature	Outerworld's Friend are 2 times more efficient	自然觀察者	外部世界的朋友的效率提高了2倍	자연 관찰자	외계의 친구의 효율이 2배 증가	自然观察者	外部世界的朋友的效率提高了2倍
+	法則の研究者	外の世界のトモタチの効率が2倍になる	Researchers of Laws	Outerworld's Friend are 2 times more efficient	法律的研究者	外部世界的朋友的效率提高了2倍	법칙의 연구자	외계의 친구의 효율이 2배 증가	法律的研究者	外部世界的朋友的效率提高了2倍
+	次元を超える者	外の世界のトモタチの効率が2倍になる	Dimension Transcenders	Outerworld's Friend are 2 times more efficient	跨維度的超越者	外部世界的朋友的效率提高了2倍	차원을 뛰어넘는 자	외계의 친구의 효율이 2배 증가	跨维度的超越者	外部世界的朋友的效率提高了2倍
+	生命体の研究者	外の世界のトモタチの効率が2倍になる	Researchers of Lifeforms	Outerworld's Friend are 2 times more efficient	生命形式的研究者	外部世界的朋友的效率提高了2倍	생명체 연구자	외계의 친구의 효율이 2배 증가	生命形式的研究者	外部世界的朋友的效率提高了2倍
+	星間航行士	外の世界のトモタチの効率が5倍になる	Stellar Navigators	Outerworld's Friend are 5 times more efficient	星際航行者	外部世界的朋友的效率提高了5倍	성간 항해사	외계의 친구의 효율이 5배 증가	星际航行者	外部世界的朋友的效率提高了5倍
+	文明の専門家	外の世界のトモタチの効率が2倍になる	Civilization Experts	Outerworld's Friend are 2 times more efficient	文明專家	外部世界的朋友的效率提高了2倍	문명 전문가	외계의 친구의 효율이 2배 증가	文明专家	外部世界的朋友的效率提高了2倍
+	生命進化論	外の世界のトモタチの効率が2倍になる	Evolution of Life	Outerworld's Friend are 2 times more efficient	生命進化理論	外部世界的朋友的效率提高了2倍	생명 진화론자	외계의 친구의 효율이 2배 증가	生命进化理论	外部世界的朋友的效率提高了2倍
+	星間交流使節	外の世界のトモタチの効率が2倍になる	Interstellar Communication Festival	Outerworld's Friend are 2 times more efficient	星際交流使節	外部世界的朋友的效率提高了2倍	성간 교류 사절	외계의 친구의 효율이 2배 증가	星际交流使节	外部世界的朋友的效率提高了2倍
+	次元の歴史	外の世界のトモタチの効率が2倍になる	History of Dimension	Outerworld's Friend are 2 times more efficient	維度歷史	外部世界的朋友的效率提高了2倍	차원의 역사	외계의 친구의 효율이 2배 증가	维度历史	外部世界的朋友的效率提高了2倍
+	宇宙ハッカー	外の世界のトモタチの効率が3倍になる	Space Hackers	Outerworld's Friend are 3 times more efficient	空間黑客	外部世界的朋友的效率提高了3倍	우주 해커	외계의 친구의 효율이 3배 증가	空间黑客	外部世界的朋友的效率提高了3倍
+	文明の発祥地	外の世界のトモタチの効率が3倍になる	Cradle of Civilization	Outerworld's Friend are 3 times more efficient	文明的搖籃	外部世界的朋友的效率提高了3倍	문명의 발상지	외계의 친구의 효율이 3배 증가	文明的摇篮	外部世界的朋友的效率提高了3倍
+	歴史の石壁	外の世界のトモタチの効率が3倍になる	Stone Walls of History	Outerworld's Friend are 3 times more efficient	歷史的石牆	外部世界的朋友的效率提高了3倍	역사의 돌담	외계의 친구의 효율이 3배 증가	历史的石墙	外部世界的朋友的效率提高了3倍
+	エメラルド・タブレットの解読者	外の世界のトモタチの効率が3倍になる	Decipherers of Emerald Tablet	Outerworld's Friend are 3 times more efficient	綠寶石碑文破譯者	外部世界的朋友的效率提高了3倍	에메랄드 태블릿의 해독자	외계의 친구의 효율이 3배 증가	绿宝石碑文破译者	外部世界的朋友的效率提高了3倍
+	異星人コミュニケーター	外の世界のトモタチの効率が5倍になる	Alien Communicators	Outerworld's Friend are 5 times more efficient	外星人通訊員	外部世界的朋友的效率提高了5倍	외계인 커뮤니케이터	외계의 친구의 효율이 5배 증가	外星人通讯员	外部世界的朋友的效率提高了5倍
+	ドルイドの弟子	神秘の渦巻の効率が2倍になる	Druid's Apprentice	Mystical Cyclone are 2 times more efficient	德魯伊學徒	神秘的漩渦的效率提高了2倍	드루이드의 제자	신비의 소용돌이의 효율이 2배 증가	德鲁伊学徒	神秘的漩涡的效率提高了2倍
+	シーウィッチの見習い	神秘の渦巻の効率が2倍になる	Seawitch's Apprentice	Mystical Cyclone are 2 times more efficient	海巫師的學徒	神秘的漩渦的效率提高了2倍	바다 마녀의 견습생	신비의 소용돌이의 효율이 2배 증가	海巫师的学徒	神秘的漩涡的效率提高了2倍
+	シーリーの保護者	神秘の渦巻の効率が2倍になる	Seelie's Protector	Mystical Cyclone are 2 times more efficient	塞利的保護者	神秘的漩渦的效率提高了2倍	쉴리의 수호자	신비의 소용돌이의 효율이 2배 증가	塞利的保护者	神秘的漩涡的效率提高了2倍
+	タラの丘の守護者	神秘の渦巻の効率が2倍になる	Guardian of Hill of Tara	Mystical Cyclone are 2 times more efficient	塔拉山的守護者	神秘的漩渦的效率提高了2倍	타라 언덕의 수호자	신비의 소용돌이의 효율이 2배 증가	塔拉山的守护者	神秘的漩涡的效率提高了2倍
+	シド・フィンナの探求者	神秘の渦巻の効率が3倍になる	Seeker of Sid Finna	Mystical Cyclone are 3 times more efficient	薛芬娜的追求者	神秘的漩渦的效率提高了3倍	시드 핀나의 탐구자	신비의 소용돌이의 효율이 3배 증가	薛芬娜的追求者	神秘的漩涡的效率提高了3倍
+	シャーマニックな旅人	神秘の渦巻の効率が2倍になる	Shaman Traveler	Mystical Cyclone are 2 times more efficient	薩滿旅行者	神秘的漩渦的效率提高了2倍	주술적 여행자	신비의 소용돌이의 효율이 2배 증가	萨满旅行者	神秘的漩涡的效率提高了2倍
+	ガルヌスの召使い	神秘の渦巻の効率が5倍になる	Servant of Garnus	Mystical Cyclone are 5 times more efficient	加努斯的僕人	神秘的漩渦的效率提高了5倍	가르누스의 하인	신비의 소용돌이의 효율이 5배 증가	加努斯的仆人	神秘的漩涡的效率提高了5倍
+	タルテュの信奉者	神秘の渦巻の効率が2倍になる	Follower of Tartu	Mystical Cyclone are 2 times more efficient	塔爾圖的追隨者	神秘的漩渦的效率提高了2倍	타르투의 추종자	신비의 소용돌이의 효율이 2배 증가	塔尔图的追随者	神秘的漩涡的效率提高了2倍
+	モリガンの使徒	神秘の渦巻の効率が10倍になる	Apostle of Morrigan	Mystical Cyclone are 10 times more efficient	莫里根的使徒	神秘的漩渦的效率提高了10倍	모리건의 사도	신비의 소용돌이의 효율이 10배 증가	莫里根的使徒	神秘的漩涡的效率提高了10倍
+	ルーの戦士	神秘の渦巻の効率が2倍になる	Warrior of Lug	Mystical Cyclone are 2 times more efficient	魯的勇士	神秘的漩渦的效率提高了2倍	루의 전사	신비의 소용돌이의 효율이 2배 증가	鲁的勇士	神秘的漩涡的效率提高了2倍
+	ニアドの神託者	神秘の渦巻の効率が2倍になる	The Oracle of Nyad	Mystical Cyclone are 2 times more efficient	尼亞德的神諭	神秘的漩渦的效率提高了2倍	니아드의 신탁자	신비의 소용돌이의 효율이 2배 증가	尼亚德的神谕	神秘的漩涡的效率提高了2倍
+	ダナの信奉者	神秘の渦巻の効率が2倍になる	Follower of Dana	Mystical Cyclone are 2 times more efficient	達納的追隨者	神秘的漩渦的效率提高了2倍	다나의 추종자	신비의 소용돌이의 효율이 2배 증가	达纳的追随者	神秘的漩涡的效率提高了2倍
+	パーガンの呪術師	神秘の渦巻の効率が5倍になる	Sorcerers of Pagan	Mystical Cyclone are 5 times more efficient	帕加的巫師	神秘的漩渦的效率提高了5倍	퍼건의 주술사	신비의 소용돌이의 효율이 5배 증가	帕加的巫师	神秘的漩涡的效率提高了5倍
+	グウィネットの勇者	神秘の渦巻の効率が2倍になる	The Hero of Gwinnett	Mystical Cyclone are 2 times more efficient	格溫尼德的勇者	神秘的漩渦的效率提高了2倍	구위넷의 용사	신비의 소용돌이의 효율이 2배 증가	格温尼德的勇者	神秘的漩涡的效率提高了2倍
+	アビソンの探究者	神秘の渦巻の効率が2倍になる	The Inquisitor of Avison	Mystical Cyclone are 2 times more efficient	阿維森的審問者	神秘的漩渦的效率提高了2倍	애비슨의 탐구자	신비의 소용돌이의 효율이 2배 증가	阿维森的审问者	神秘的漩涡的效率提高了2倍
+	聖なる木の守り手	神秘の渦巻の効率が2倍になる	Guardian of the Sacred Tree	Mystical Cyclone are 2 times more efficient	神聖之樹的守護者	神秘的漩渦的效率提高了2倍	성스러운 나무의 수호자	신비의 소용돌이의 효율이 2배 증가	神圣之树的守护者	神秘的漩涡的效率提高了2倍
+	大地と繋がる者	神秘の渦巻の効率が2倍になる	Connector of Earth	Mystical Cyclone are 2 times more efficient	與大地相連的人	神秘的漩渦的效率提高了2倍	대지와 연결되는 자	신비의 소용돌이의 효율이 2배 증가	与大地相连的人	神秘的漩涡的效率提高了2倍
+	天界と地界の調停者	神秘の渦巻の効率が5倍になる	Earth and Heaven Peacemaker	Mystical Cyclone are 5 times more efficient	天堂與大地的調解人	神秘的漩渦的效率提高了5倍	천계와 지계의 중재자	신비의 소용돌이의 효율이 5배 증가	天堂与大地的调解人	神秘的漩涡的
+	時空の旅人	原初の特異点の効率が2倍になる	Traveler of Time and Space	The Primordial Singularity are 2 times more efficient	時間和空間的旅行者	原始的奇點的效率提高了2倍	시공간 여행자	태초의 특이점의 효율이 2배 증가	时间和空间的旅行者	原始的奇點的效率提高了2倍
+	特異な存在の観察者	原初の特異点の効率が2倍になる	Observer of the Singularity	The Primordial Singularity are 2 times more efficient	奇異點的觀察者	原始的奇點的效率提高了2倍	특이 존재의 관찰자	태초의 특이점의 효율이 2배 증가	奇异点的观察者	原始的奇點的效率提高了2倍
+	特異点の維持者	原初の特異点の効率が2倍になる	Keeper of the Singularity	The Primordial Singularity are 2 times more efficient	奇點的維護者	原始的奇點的效率提高了2倍	특이점의 유지자	태초의 특이점의 효율이 2배 증가	奇点的维护者	原始的奇點的效率提高了2倍
+	時間の継承者	原初の特異点の効率が2倍になる	Heir of Time	The Primordial Singularity are 2 times more efficient	時間的繼承者	原始的奇點的效率提高了2倍	시간의 계승자	태초의 특이점의 효율이 2배 증가	时间的继承者	原始的奇點的效率提高了2倍
+	運命を変える者	原初の特異点の効率が3倍になる	Destiny Changer	The Primordial Singularity are 3 times more efficient	命運的改變者	原始的奇點的效率提高了3倍	운명을 바꾸는 자	태초의 특이점의 효율이 3배 증가	命运的改变者	原始的奇點的效率提高了3倍
+	可能性の追求者	原初の特異点の効率が2倍になる	Pursuer of Possibilities	The Primordial Singularity are 2 times more efficient	可能性的傳播者	原始的奇點的效率提高了2倍	가능성의 추구자	태초의 특이점의 효율이 2배 증가	可能性的传播者	原始的奇點的效率提高了2倍
+	始まりの証人	原初の特異点の効率が2倍になる	Witness of the Beginning	The Primordial Singularity are 2 times more efficient	開端的見證者	原始的奇點的效率提高了2倍	시작의 증인	태초의 특이점의 효율이 2배 증가	开端的见证者	原始的奇點的效率提高了2倍
+	特異点の解析者	原初の特異点の効率が2倍になる	Analyst of Singularity	The Primordial Singularity are 2 times more efficient	奇點的分析者	原始的奇點的效率提高了2倍	특이점의 분석가	태초의 특이점의 효율이 2배 증가	奇点的分析者	原始的奇點的效率提高了2倍
+	過去と未来の観察者	原初の特異点の効率が2倍になる	Observer of the past and future	The Primordial Singularity are 2 times more efficient	過去和未來的觀察者	原始的奇點的效率提高了2倍	과거와 미래의 관찰자	태초의 특이점의 효율이 2배 증가	过去和未来的观察者	原始的奇點的效率提高了2倍
+	真理の追求者	原初の特異点の効率が5倍になる	Seeker of Truth	The Primordial Singularity are 5 times more efficient	真理的探索者	原始的奇點的效率提高了5倍	진리 추구자	태초의 특이점의 효율이 5배 증가	真理的探索者	原始的奇點的效率提高了5倍
+	超次元の意識体	原初の特異点の効率が2倍になる	Consciousness of Hyperdimension	The Primordial Singularity are 2 times more efficient	超維意識	原始的奇點的效率提高了2倍	초차원 의식체	태초의 특이점의 효율이 2배 증가	超维意识	原始的奇點的效率提高了2倍
+	真実を知る者	原初の特異点の効率が2倍になる	Knower of Truth	The Primordial Singularity are 2 times more efficient	真理的認知者	原始的奇點的效率提高了2倍	진실을 아는 자	태초의 특이점의 효율이 2배 증가	真理的认知者	原始的奇點的效率提高了2倍
+	始まりの目撃者	原初の特異点の効率が5倍になる	Witness of the Beginning	The Primordial Singularity are 5 times more efficient	初始的見證者	原始的奇點的效率提高了5倍	시작의 목격자	태초의 특이점의 효율이 5배 증가	初始的见证者	原始的奇點的效率提高了5倍
+	真理の為に	原初の特異点の効率が3倍になる	For Truth	The Primordial Singularity are 3 times more efficient	為了真理的緣故	原始的奇點的效率提高了3倍	진리를 위해	태초의 특이점의 효율이 3배 증가	为了真理的缘故	原始的奇點的效率提高了3倍
+	創造の源泉	原初の特異点の効率が3倍になる	Source of Creation	The Primordial Singularity are 3 times more efficient	創造之源	原始的奇點的效率提高了3倍	창조의 원천	태초의 특이점의 효율이 3배 증가	创造之源	原始的奇點的效率提高了3倍
+	原初存在の交渉者	原初の特異点の効率が3倍になる	Negotiator of Primordial Being	The Primordial Singularity are 3 times more efficient	原始人的談判者	原始的奇點的效率提高了3倍	원초적 존재의 교섭자	태초의 특이점의 효율이 3배 증가	原始人的谈判者	原始的奇點的效率提高了3倍
+	特異点の統括者	原初の特異点の効率が3倍になる	The Supervisor of the Singularity	The Primordial Singularity are 3 times more efficient	奇異性的監督者	原始的奇點的效率提高了3倍	특이점의 관장자	태초의 특이점의 효율이 3배 증가	奇异性的监督者	原始的奇點的效率提高了3倍
+	全知全能のオリジン	原初の特異点の効率が5倍になる	Origin of Omniscience	The Primordial Singularity are 5 times more efficient	全知的起源	原始的奇點的效率提高了5倍	전지전능의 근원	태초의 특이점의 효율이 5배 증가	全知的起源	原始的奇點的效率提高了5倍
+	クリックの旅人	神の恵みの効率が2倍になる	Click Traveler	God's Blessings are 2 times more efficient	咔嚓的旅行者	上帝的恩典的效率提高了2倍	클릭의 여행자	신의 은총의 효율이 2배 증가	咔嚓的旅行者	上帝的恩典的效率提高了2倍
+	クリックの達人	神の恵みの効率が2倍になる	Click Expert	God's Blessings are 2 times more efficient	點擊的主人	上帝的恩典的效率提高了2倍	클릭의 달인	신의 은총의 효율이 2배 증가	点击的主人	上帝的恩典的效率提高了2倍
+	クリックのプロ	神の恵みの効率が2倍になる	Click Proffesional	God's Blessings are 2 times more efficient	點擊的專業人員	上帝的恩典的效率提高了2倍	클릭의 프로	신의 은총의 효율이 2배 증가	点击的专业人员	上帝的恩典的效率提高了2倍
+	クリックの猛者	所有する聖霊1個に付き、神の恵みの合成数+0.5する	The Fiercest of Click	Production of Stella from God's Blessings +0.5 for each Holy Spirit owned 	最猛烈的點擊	每擁有一個聖靈，上帝的恩典合成數+0.5	클릭의 강자	소요한 성령 1개당 신의 은총의 합성수 +0.5	最猛烈的点击	每擁有一個聖靈，上帝的恩典合成數+0.5
+	クリックの超人	神の恵みの効率が3倍になる	Superhuman of Click	God's Blessings are 3 times more efficient	點擊率最高的人	上帝的恩典的效率提高了3倍	클릭의 초인	신의 은총의 효율이 3배 증가	点击率最高的人	上帝的恩典的效率提高了3倍
+	クリックの闘士	神の恵みの効率が5倍になる	Click Fighter	God's Blessings are 5 times more efficient	點擊的鬥士	上帝的恩典的效率提高了5倍	클릭의 투사	신의 은총의 효율이 5배 증가	点击的斗士	上帝的恩典的效率提高了5倍
+	クリックの挑戦者	神の恵みの効率が5倍になる	Click Challenger	God's Blessings are 5 times more efficient	霹靂挑戰者	上帝的恩典的效率提高了5倍	클릭의 도전자	신의 은총의 효율이 5배 증가	霹雳挑战者	上帝的恩典的效率提高了5倍
+	クリックの天才	ラグナロクをした回数1回に付き、神の恵みの合成率+5％	Click Genius	Stella production rate of God's Blessings +5% for each Ragnarok happened	天才的點擊率	每進行一次諸神的黃昏，上帝的恩典的效率+5%	클릭의 천재	라그나로크를 한 횟수 1회당 신의 은총의 합성률 +5%	天才的点击率	每進行一次諸神的黃昏，上帝的恩典的效率+5%
+	クリックの奇跡	神の恵みの効率が10倍になる	Click Miracle	God's Blessings are 10 times more efficient	奇蹟的點擊	上帝的恩典的效率提高了10倍	클릭의 기적	신의 은총의 효율이 10배 증가	奇迹的点击	上帝的恩典的效率提高了10倍
+	クリックの聖域	神の恵みの効率が5倍になる	Click Sanctuary	God's Blessings are 5 times more efficient	點擊的聖地	上帝的恩典的效率提高了5倍	클릭의 성역	신의 은총의 효율이 5배 증가	点击的圣地	上帝的恩典的效率提高了5倍
+	クリックの王者	神の恵みの効率が10倍になる	Click Champion	God's Blessings are 10 times more efficient	冠軍的點擊	上帝的恩典的效率提高了10倍	클릭의 왕자	신의 은총의 효율이 10배 증가	冠军的点击	上帝的恩典的效率提高了10倍
+	クリックの英雄	神の恵みの効率が5倍になる	Click Hero	God's Blessings are 5 times more efficient	點擊的英雄	上帝的恩典的效率提高了5倍	클릭의 영웅	신의 은총의 효율이 5배 증가	点击的英雄	上帝的恩典的效率提高了5倍
+	クリックの伝説	神の恵みの効率が5倍になる	Click Legend	God's Blessings are 5 times more efficient	點擊的傳奇	上帝的恩典的效率提高了5倍	클릭의 전설	신의 은총의 효율이 5배 증가	点击的传奇	上帝的恩典的效率提高了5倍
+	クリックの帝王	神の恵みの効率が10倍になる	Click Emperor	God's Blessings are 10 times more efficient	點擊的的帝王	上帝的恩典的效率提高了10倍	클릭의 제왕	신의 은총의 효율이 10배 증가	点击的的帝王	上帝的恩典的效率提高了10倍
+	クリックの妖精	神の恵みの効率が10倍になる	Click Fairy	God's Blessings are 10 times more efficient	點擊量的仙女們	上帝的恩典的效率提高了10倍	클릭의 요정	신의 은총의 효율이 10배 증가	点击量的仙女们	上帝的恩典的效率提高了10倍
+	クリックの聖域	神の恵みの効率が10倍になる	Click Sanctuary	God's Blessings are 10 times more efficient	點擊的聖地	上帝的恩典的效率提高了10倍	클릭의 성역	신의 은총의 효율이 10배 증가	点击的圣地	上帝的恩典的效率提高了10倍
+	クリックの神秘	神の恵みの効率が10倍になる	Click Mystery	God's Blessings are 10 times more efficient	點擊的奧秘	上帝的恩典的效率提高了10倍	클릭의 신비	신의 은총의 효율이 10배 증가	点击的奥秘	上帝的恩典的效率提高了10倍
+	クリックの極致	神の恵みの効率が10倍になる	Click Perfection	God's Blessings are 10 times more efficient	點擊的高潮	上帝的恩典的效率提高了10倍	클릭의 극치	신의 은총의 효율이 10배 증가	点击的高潮	上帝的恩典的效率提高了10倍
+	覚醒の第一歩	神の恵みの効率が25％上昇する	First Steps to Awakening	Increases God's Blessings efficiency by 25%	覺醒的第一步	上帝的恩典的效率提高25%	각성의 첫걸음	신의 은총의 효율이 25% 상승	觉醒的第一步	上帝的恩典的效率提高25%
+	眠りから覚めし者	神の恵みの効率が25％上昇する	The Awakener	Increases God's Blessings efficiency by 25%	從睡眠中覺醒的人	上帝的恩典的效率提高25%	잠에서 깨어난 자	신의 은총의 효율이 25% 상승	从睡眠中觉醒的人	上帝的恩典的效率提高25%
+	覚醒の兆し	神の恵みの効率が25％上昇する	Signs of Awakening	Increases God's Blessings efficiency by 25%	覺醒的徵兆	上帝的恩典的效率提高25%	각성의 조짐	신의 은총의 효율이 25% 상승	觉醒的征兆	上帝的恩典的效率提高25%
+	潜在能力の開花	神の恵みの効率が25％上昇する	Potential Awakened	Increases God's Blessings efficiency by 25%	潛能的綻放	上帝的恩典的效率提高25%	잠재능력의 개화	신의 은총의 효율이 25% 상승	潜能的绽放	上帝的恩典的效率提高25%
+	魂の覚醒者	神の恵みの効率が25％上昇する	The Awakened Soul	Increases God's Blessings efficiency by 25%	靈魂的覺醒者	上帝的恩典的效率提高25%	영혼의 각성자	신의 은총의 효율이 25% 상승	灵魂的觉醒者	上帝的恩典的效率提高25%
+	神々の眷属となる者	神の恵みの効率が25％上昇する	Gods' Kin	Increases God's Blessings efficiency by 25%	成為眾神的家庭成員的人	上帝的恩典的效率提高25%	신들의 권속이 되는 자	신의 은총의 효율이 25% 상승	成为众神的家庭成员的人	上帝的恩典的效率提高25%
+	悟りへの道を開く	神の恵みの効率が25％上昇する	Opens the way to Enlightenment	Increases God's Blessings efficiency by 25%	打開通往啟蒙的道路	上帝的恩典的效率提高25%	깨달음의 길을 열다	신의 은총의 효율이 25% 상승	打开通往启蒙的道路	上帝的恩典的效率提高25%
+	夢と現実	神の恵みの効率が25％上昇する	Dreams and Reality	Increases God's Blessings efficiency by 25%	夢境與現實	上帝的恩典的效率提高25%	꿈과 현실	신의 은총의 효율이 25% 상승	梦境与现实	上帝的恩典的效率提高25%
+	意識の領域	所有する聖霊10レベルに付き、神の恵みの合成率+1％する	Realms of Consciousness	Stella production rate of God's Blessing +1% for every 10 levels of Holy Spirit	意識的境界	擁有的聖靈每10級，上帝的恩典的效率+1%	의식의 영역	소유한 성령 10레벨당 신의 은총의 합성률 +1%	意识的境界	擁有的聖靈每10級，上帝的恩典的效率+1%
+	法則を超越する	神の恵みの効率が25％上昇する	Transcending the Law	Increases God's Blessings efficiency by 25%	超越法律	上帝的恩典的效率提高25%	법칙을 초월하다	신의 은총의 효율이 25% 상승	超越法律	上帝的恩典的效率提高25%
+	天変地異の宿命	神の恵みの効率が25％上昇する	The Fate of Heaven and Earth	Increases God's Blessings efficiency by 25%	自然現象的命運	上帝的恩典的效率提高25%	천재지변의 숙명	신의 은총의 효율이 25% 상승	自然现象的命运	上帝的恩典的效率提高25%
+	終焉の守護者	神の恵みの効率が25％上昇する	Guardian of the End	Increases God's Blessings efficiency by 25%	末日的守護者	上帝的恩典的效率提高25%	종말의 수호자	신의 은총의 효율이 25% 상승	末日的守护者	上帝的恩典的效率提高25%
+	崇高なる存在	神の恵みの効率が25％上昇する	The Exalted Being	Increases God's Blessings efficiency by 25%	崇高的眾生	上帝的恩典的效率提高25%	숭고한 존재	신의 은총의 효율이 25% 상승	崇高的众生	上帝的恩典的效率提高25%
+	永劫の旅人	神の恵みの効率が25％上昇する	Traveler of Eternity	Increases God's Blessings efficiency by 25%	永恆的旅行者	上帝的恩典的效率提高25%	영겁의 여행자	신의 은총의 효율이 25% 상승	永恒的旅行者	上帝的恩典的效率提高25%
+	永遠の輝き	神の恵みの効率が25％上昇する	Eternal Radiance	Increases God's Blessings efficiency by 25%	永恆的光芒	上帝的恩典的效率提高25%	영원한 광채	신의 은총의 효율이 25% 상승	永恒的光芒	上帝的恩典的效率提高25%
+	神々の証となる覚醒	神の恵みの効率が25％上昇する	Awakening to Godhood	Increases God's Blessings efficiency by 25%	覺醒，是諸神的標誌	上帝的恩典的效率提高25%	신들의 증표가 되는 각성	신의 은총의 효율이 25% 상승	觉醒，是诸神的标志	上帝的恩典的效率提高25%
+	聖霊使い	ステラの合成率を+2％	Wielder of the Holy Spirit	Stella production rate +2%.	聖靈的使者	星辰的合成率+2%	성령의 사자	스텔라 합성률을 +2%	圣灵的使者	星辰的合成率+2%
+	聖霊の守護者	ステラの欠片の機能が解除される	Guardian of the Holy Spirit	Unlock Stella's Fragment	聖靈的守護者	開放星辰碎片功能	성령의 수호자	스텔라 조각의 기능이 해제됨	圣灵的守护者	開放星辰碎片功能
+	聖霊の導き手	メディアプレイア機能が解除される	Guide of the Holy Spirit	Unlock Media Player	聖靈的嚮導	開放音樂播放器功能	성령의 인도자	미디어 플레이어 기능이 해제됨	圣灵的向导	開放音樂播放器功能
+	聖霊の修練者	ステラの合成率を+2％	Practitioner of the Holy Spirit	Stella production rate +2%.	聖靈的實踐者	星辰的合成率+2%	성령의 수련자	스텔라 합성률을 +2%	圣灵的实践者	星辰的合成率+2%
+	聖霊の召使い	ビフレストの欠片の機能が解除される	Servants of the Holy Spirit	Unlock Bifrost's Fragment	聖靈的僕人	開放彩虹橋碎片的功能	성령의 종	비프레스트 조각의 기능이 해제됨	圣灵的仆人	開放彩虹橋碎片的功能
+	聖霊の契約者	ステラの合成率を+2％	Contractor of the Holy Spirit	Stella production rate +2%.	聖靈的承包人	星辰的合成率+2%	성령의 계약자	스텔라 합성률을 +2%	圣灵的承包人	星辰的合成率+2%
+	聖霊の覚醒者	生命の実機能が解除される	Awakener of the Holy Spirit	Unlock The Fruit of Life	聖靈的喚醒者	開放生命之果的功能	성령의 각성자	생명의 열매기능이 해제된다	圣灵的唤醒者	開放生命之果的功能
+	聖霊の使徒	ラグナロク機能解除が解除される	Apostle of the Holy Spirit	Unlock Ragnarok	聖靈的使徒	開放諸神的黃昏功能	성령의 사도	라그나로크 기능 해제 해제	圣灵的使徒	開放諸神的黃昏功能
+	聖霊の神官	ステラの合成率を+2％	Priests of the Holy Spirit	Stella production rate +2%.	聖靈的祭司	星辰的合成率+2%	성령의 신관	스텔라 합성률을 +2%	圣灵的祭司	星辰的合成率+2%
+	聖霊の輝く光	ステラの合成率を+2％	Radiance of the Holy Spirit	Stella production rate +2%.	聖靈的閃亮之光	星辰的合成率+2%	성령의 빛나는 빛	스텔라 합성률을 +2%	圣灵的闪亮之光	星辰的合成率+2%
+	聖霊の星の導き手	ステラの合成率を+2％	Star Guide of the Holy Spirit	Stella production rate +2%.	聖靈的星際引導者	星辰的合成率+2%	성령의 별의 인도자	스텔라 합성률을 +2%	圣灵的星际引导者	星辰的合成率+2%
+	聖霊の月光の騎士	ラグナロクをした回数1回に付き、神の恵みの合成率を+5％	Moonlight Knight of the Holy Spirit	Stella production rate of God's Blessings +5% for each Ragnarok happened	聖靈的月光騎士	每進行一次諸神的黃昏，上帝的恩典的效率+5%	성령의 달빛 기사	라그나로크를 한 횟수 1회당 신의 은총의 합성률 +5%	圣灵的月光骑士	每進行一次諸神的黃昏，上帝的恩典的效率+5%
+	聖霊の光り輝く者	ステラの合成率を+2％	Shining Light of the Holy Spirit	Stella production rate +2%.	聖靈的閃亮之光	星辰的合成率+2%	성령의 빛나는 자	스텔라 합성률을 +2%	圣灵的闪亮之光	星辰的合成率+2%
+	聖霊の牧師	ステラの合成率を+2％	Cleric of the Holy Spirit	Stella production rate +2%.	聖靈的牧師	星辰的合成率+2%	성령의 목사	스텔라 합성률을 +2%	圣灵的牧师	星辰的合成率+2%
+	聖霊の司祭	ステラの合成率を+2％	Priest of the Holy Spirit	Stella production rate +2%.	聖靈的祭司	星辰的合成率+2%	성령의 사제	스텔라 합성률을 +2%	圣灵的祭司	星辰的合成率+2%
+	聖霊の神官	ステラの合成率を+2％	High Priest of the Holy Spirit	Stella production rate +2%.	聖靈的祭司	星辰的合成率+2%	성령의 신관	스텔라 합성률을 +2%	圣灵的祭司	星辰的合成率+2%
+	聖霊の力を司る者	ユグドラシルが成長する、生命の実は2個同時に成長する	Master of the Holy Spirit	Yggdrasill grows 2 Fruit of Life at the same time.	聖靈力量的傳道人	將會有2個生命之果同時生長	성령의 권능을 관장하는 자	위그드라실이 성장, 생명의 열매는 2개 동시에 성장	圣灵力量的传道人	將會有2個生命之果同時生長
+	聖霊の導きを受けし者	ステラの合成率を+2％	One who has received the guidance of the Holy Spirit	Stella production rate +2%.	被聖靈引導的人	星辰的合成率+2%	성령의 인도를 받은 자	스텔라 합성률을 +2%	被圣灵引导的人	星辰的合成率+2%
+	聖霊の恩恵を授かった者	ステラの合成率を+2％	One who has received the grace of the Holy Spirit	Stella production rate +2%.	被賦予聖靈的好處的人	星辰的合成率+2%	성령의 은총을 받은 자	스텔라 합성률을 +2%	被赋予圣灵的好处的人	星辰的合成率+2%
+	聖霊の導きに従う者	ステラの合成率を+2％	One who follows the guidance of the Holy Spirit	Stella production rate +2%.	遵循聖靈指引的人	星辰的合成率+2%	성령의 인도를 따르는 자	스텔라 합성률을 +2%	遵循圣灵指引的人	星辰的合成率+2%
+	聖霊の象徴	ユグドラシルが成長する、生命の実は3個同時に成長する	Symbol of the Holy Spirit	Yggdrasill grows 3 Fruit of Life at the same time.	聖靈的象徵	將會有3個生命之果同時生長	성령의 상징	위그드라실이 성장, 생명의 열매는 3개 동시에 성장	圣灵的象征	將會有3個生命之果同時生長
+	聖霊の継承者	ステラの合成率を+2％	Heir of the Holy Spirit	Stella production rate +2%.	聖靈的繼承者	星辰的合成率+2%	성령의 계승자	스텔라 합성률을 +2%	圣灵的继承者	星辰的合成率+2%
+	聖霊の化身	ステラの合成率を+2％	Incarnation of the Holy Spirit	Stella production rate +2%.	聖靈的化身	星辰的合成率+2%	성령의 화신	스텔라 합성률을 +2%	圣灵的化身	星辰的合成率+2%
+	聖霊の眷属	ステラの合成率を+2％	Kin of the Holy Spirit	Stella production rate +2%.	聖靈的侍者	星辰的合成率+2%	성령의 권속	스텔라 합성률을 +2%	圣灵的侍者	星辰的合成率+2%
+	聖霊と共鳴する者	ユグドラシルが成長する、生命の実は4個同時に成長する	Resonator of Holy Spirit	Yggdrasill grows 4 Fruit of Life at the same time.	與聖靈共鳴的人	將會有4個生命之果同時生長	성령과 공명하는 자	위그드라실이 성장, 생명의 열매는 4개 동시에 성장	与圣灵共鸣的人	將會有4個生命之果同時生長
+	聖霊の掌握者	ステラの合成率を+2％	Holders of the Holy Spirit	Stella production rate +2%.	聖靈的持有者	星辰的合成率+2%	성령의 장악자	스텔라 합성률을 +2%	圣灵的持有者	星辰的合成率+2%
+	聖霊の叡智を有する者	ステラの合成率を+2％	Holders of the Holy Spirit's Wisdom	Stella production rate +2%.	聖靈智慧的持有者	星辰的合成率+2%	성령의 지혜를 가진 자	스텔라 합성률을 +2%	圣灵智慧的持有者	星辰的合成率+2%
+	聖霊の風の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Wind	Stella production rate +2%.	聖靈之風的施展者	星辰的合成率+2%	성령의 바람을 다루는 자	스텔라 합성률을 +2%	圣灵之风的施展者	星辰的合成率+2%
+	聖霊の雷の使い手	ユグドラシルが成長する、生命の実は5個同時に成長する	Wielder of the Holy Spirit's Thunder	Yggdrasill grows 5 Fruit of Life at the same time.	聖靈之雷的施用者	將會有5個生命之果同時生長	성령의 천둥을 다루는 자	위그드라실이 성장, 생명의 열매는 5개 동시에 성장	圣灵之雷的施用者	將會有5個生命之果同時生長
+	聖霊の水の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Water	Stella production rate +2%.	聖靈之水的施用者	星辰的合成率+2%	성령의 물의 사자	스텔라 합성률을 +2%	圣灵之水的施用者	星辰的合成率+2%
+	聖霊の炎の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Fire	Stella production rate +2%.	聖靈之火的施展者	星辰的合成率+2%	성령의 불의 사자	스텔라 합성률을 +2%	圣灵之火的施展者	星辰的合成率+2%
+	聖霊の氷の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Ice	Stella production rate +2%.	聖靈之冰的施展者	星辰的合成率+2%	성령의 얼음술사	스텔라 합성률을 +2%	圣灵之冰的施展者	星辰的合成率+2%
+	聖霊の土の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Earth	Stella production rate +2%.	聖靈之土的施展者	星辰的合成率+2%	성령의 흙을 다루는 자	스텔라 합성률을 +2%	圣灵之土的施展者	星辰的合成率+2%
+	聖霊の光の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Light	Stella production rate +2%.	聖靈之光的施展者	星辰的合成率+2%	성령의 빛의 사자	스텔라 합성률을 +2%	圣灵之光的施展者	星辰的合成率+2%
+	聖霊の闇の使い手	ステラの合成率を+2％	Wielder of the Holy Spirit's Darkness	Stella production rate +2%.	聖靈黑暗的施展者	星辰的合成率+2%	성령의 어둠의 사용자	스텔라 합성률을 +2%	圣灵黑暗的施展者	星辰的合成率+2%
+	聖霊の空間の支配者	ステラの合成率を+2％	Master of Holy Spirit's Space	Stella production rate +2%.	聖靈的空間大師	星辰的合成率+2%	성령의 공간의 지배자	스텔라 합성률을 +2%	圣灵的空间大师	星辰的合成率+2%
+	聖霊の時間の支配者	ステラの合成率を+2％	Master of Holy Spirit's Time	Stella production rate +2%.	聖靈的時間統治者	星辰的合成率+2%	성령의 시간의 지배자	스텔라 합성률을 +2%	圣灵的时间统治者	星辰的合成率+2%
+	木々の使者	「世界樹の葉」のステラ合成率を+5％	Messenger of the Trees	Yggdrasill Leaf's Stella production rate +5%	樹木的使者	世界之樹的葉子的合成率+5%	나무의 사자	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	树木的使者	世界之樹的葉子的合成率+5%
+	ふわりと舞う葉っぱ	「世界樹の葉」のステラ合成率を+5％	Leaves that dance softly	Yggdrasill Leaf's Stella production rate +5%	輕輕跳舞的葉子	世界之樹的葉子的合成率+5%	살랑살랑 춤추는 나뭇잎	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	轻轻跳舞的叶子	世界之樹的葉子的合成率+5%
+	大地を突き抜ける芽	「世界樹の葉」のステラ合成率を+5％	Buds that pierce the earth	Yggdrasill Leaf's Stella production rate +5%	穿透大地的花蕾	世界之樹的葉子的合成率+5%	대지를 뚫고 나오는 새싹	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	穿透大地的花蕾	世界之樹的葉子的合成率+5%
+	雄大な枝葉を持つ若木	夜空のステラを解除される、夜空のステラが1に付き、ステラの総合成率を+5％、通算プレイ時間が5時間に付き、夜空のステラが+1される	Young tree with majestic branches and leaves	Unlock Stella of Night Sky, Production rate of Stella +5% for each Stella of Night Sky, +1 Stella of Night Sky for every 5 hours of total play time.	枝葉茂盛的幼樹	夜空恒星解锁，每1颗夜空恒星的总产量+5%，总游戏时间每5小时+1颗夜空恒星。	장엄한 가지와 잎을 가진 어린 나무	밤하늘의 스텔라가 해제된다, 밤하늘의 스텔라 1당, 스텔라의 총합성률 +5%, 누적된 플레이 시간 5시간당, 밤하늘의 스텔라 +1	枝叶茂盛的幼树	夜空恒星解锁，每1颗夜空恒星的总产量+5%，总游戏时间每5小时+1颗夜空恒星。
+	緑豊かな木立の一員	「ワタリガラス」が1レベルに付き、「世界樹の葉」のステラ合成率を+1％	A member of a green forest	Production rate of Stella +1% for each level of Raven	鬱鬱蔥蔥的樹林中的成員	烏鴉每升1级，世界树叶的合成率+1％。	울창한 숲의 일원	「도래하는 까마귀」의 레벨이 1증가할 때마다「위그드라실의 잎사귀」의 스텔라 합성률을 +1%	郁郁葱葱的树林中的成员	烏鴉每升1级，世界树叶的合成率+1％。
+	頑丈な幹を持つ老木	解除された実績が1個に付き、「ワタリガラス」のステラ合成率を+1％	An old tree with a sturdy trunk	Stella production rate of Raven +1% for each achievement unlocked	樹乾結實的老樹	每解锁一个成就，烏鴉的合成率+1％。	튼튼한 줄기를 가진 노거수	해제된 업적 1개당 「도래하는 까마귀」의 스텔라 합성률을 +1%	树干结实的老树	每解锁一个成就，烏鴉的合成率+1％。
+	大自然を象徴する樹木	「世界樹の葉」のステラ合成率を+5％	A tree symbolizing Mother Nature	Yggdrasill Leaf's Stella production rate +5%	象徵著偉大的戶外活動的樹木	世界之樹的葉子的合成率+5%	대자연을 상징하는 나무	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	象征着伟大的户外活动的树木	世界之樹的葉子的合成率+5%
+	世界樹の子孫	「世界樹の葉」のステラ合成率を+5％	Descendant of the Yggdrasill	Yggdrasill Leaf's Stella production rate +5%	世界樹的後代	世界之樹的葉子的合成率+5%	세계수의 후손	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	世界树的后代	世界之樹的葉子的合成率+5%
+	魔法の森の主	「世界樹の葉」のステラ合成率を+5％	Lord of the Magical Forest	Yggdrasill Leaf's Stella production rate +5%	神奇森林的主宰	世界之樹的葉子的合成率+5%	마법의 숲의 주인	「위그드라실의 잎사귀」의 스텔라 합성률을 +5%	神奇森林的主宰	世界之樹的葉子的合成率+5%
+	時を超えた存在	「人族の農場」が3レベルに付き、「世界樹の葉」のステラ合成率を+1％	Timeless being	Yggdrasill Leaf's Stella production rate +1% per 3 levels of Human's Farm	永恆的生命	人類的農莊每升3级，世界树叶的合成率+1％。	시간을 초월한 존재	「인족의 농장」의 레벨이 3증가할 때마다「위그드라실의 잎사귀」의 스텔라 합성률을 +1%	永恒的生命	人類的農莊每升3级，世界树叶的合成率+1％。
+	空を見上げる者	「ダークエルフの泉」が4レベルに付き、「世界樹の葉」のステラ合成率を+1％	The one who looks up to the sky	Yggdrasill Leaf's Stella production rate per 4 levels of Fountain of Dark Elves	仰望天空的人	黑暗精靈的噴泉每升4级，世界树叶的合成率+1％。	하늘을 바라보는 자	「다크엘프의 샘」의 레벨이 4증가할 때마다「위그드라실의 잎사귀」의 스텔라 합성률을 +1%	仰望天空的人	黑暗精靈的噴泉每升4级，世界树叶的合成率+1％。
+	枝葉に宿る知識	「ドヴェルグの鍛冶場」が5レベルに付き、「世界樹の葉」のステラ合成率を+1％	The knowledge that resides in branches and leaves	Yggdrasill Leaf's Stella production rate +1% per 5 levels of Forge of Dwarves	居住在樹枝和樹葉中的知識	德維爾格的鍛造廠每升5级，世界树叶的合成率+1％。	나뭇잎에 깃든 지식	「드베르그의 대장간」의 레벨이 5증가할 때마다「위그드라실의 잎사귀」의 스텔라 합성률을 +1%	居住在树枝和树叶中的知识	德維爾格的鍛造廠每升5级，世界树叶的合成率+1％。
+	大自然の響きを感じる者	解除された伝説の生き物が1種類に付き、ステラの合成率を+10％	One who feels the echoes of Mother Nature	Stellar production rate +10% for each type of legendary creature unlocked	感受自然母親的迴聲的人	每解锁一种类型的传奇生物,星辰的合成率+10%	대자연의 울림을 느끼는 자	해제된 전설의 생물 1종류당 스텔라의 합성률을 +10%	感受自然母亲的回声的人	每解锁一种类型的传奇生物,星辰的合成率+10%
+	深い森の探検家	「ヴァン神族の祭祀場」が6レベルに付き、「ワタリガラス」のステラ合成率を+1％	Explorer of the deep forest	Yggdrasill Leaf's Stella production rate +1% per 6 levels of Vanir's Shrine	森林深處的探索者	華納神族的祭祀大廳每升6级，世界树叶的合成率+1％。	깊은 숲의 탐험가	「바니르 신족의 제사장」의 레벨이 6증가할 때마다 「도래하는 까마귀」의 스텔라 합성률을 +1%	森林深处的探索者	華納神族的祭祀大廳每升6级，世界树叶的合成率+1％。
+	夜明け前の森の番人	「神聖なる樹海」が7レベルに付き、「ワタリガラス」のステラ合成率を+1％	Keeper of the Dawn Forest	Yggdrasill Leaf's Stella production rate +1% per 7 levels of Sacred Forest	黎明前森林的守護者	神聖的樹海每升7级，世界树叶的合成率+1％。	새벽녘의 숲 지킴이	「신성한 수해」의 레벨이 7증가할 때마다 「도래하는 까마귀」의 스텔라 합성률을 +1%	黎明前森林的守护者	神聖的樹海每升7级，世界树叶的合成率+1％。
+	森の住人の友	「テュールの神殿」が8レベルに付き、「ワタリガラス」のステラ合成率を+1％	Friend of the Forest Dwellers	Yggdrasill Leaf's Stella production rate +1% per 8 levels of Tyr's Temple	森林居住者的朋友	提爾神廟每升8级，世界树叶的合成率+1％。	숲의 주민의 친구	「투르의 신전」의 레벨이 8증가할 때마다「도래하는 까마귀」의 스텔라 합성률을 +1%	森林居住者的朋友	提爾神廟每升8级，世界树叶的合成率+1％。
+	自然と共に生きる者	「エルフ薬草園」が9レベルに付き、「ワタリガラス」のステラ合成率を+1％	One who lives with Mother Nature	Yggdrasill Leaf's Stella production rate +1% per 9 levels of Elves' Herb Garden	與自然共存的人	精靈草藥園每升9级，世界树叶的合成率+1％。	자연과 함께 사는 자	「엘프의 허브정원」의 레벨이 9증가할 때마다「도래하는 까마귀」의 스텔라 생산율을 +1%	与自然共存的人	精靈草藥園每升9级，世界树叶的合成率+1％。
+	森の賢者	「異世界のワープゲート」が10レベルに付き、「ワタリガラス」のステラ合成率を+1％	The Sage of the Forest	Yggdrasill Leaf's Stella production rate +1% per 10 levels of Otherworld's Portal	森林中的智者	異世界的傳送門每升10级，世界树叶的合成率+1％。	숲의 현자	「이세계의 워프 게이트」의 레벨이 10증가할 때마다「도래하는 까마귀」의 스텔라 합성률을 +1%	森林中的智者	異世界的傳送門每升10级，世界树叶的合成率+1％。
+	創造力に満ちた森の守護者	ステラの欠片の出現率を+2％	Guardian of the forest full of creativity	Stella's Fragment appearance rate+2%	創造性森林的守護者	星辰碎片的出現率+2%	창의력 넘치는 숲의 수호자	스텔라 조각의 출현율 +2%	创造性森林的守护者	星辰碎片的出現率+2%
+	森の神話を紡ぐ者	ステラの欠片の出現率を+2％	Creator of forest myths	Stella's Fragment appearance rate+2%	森林神話的編織者	星辰碎片的出現率+2%	숲의 신화를 창조하는 자	스텔라 조각의 출현율 +2%	森林神话的编织者	星辰碎片的出現率+2%
+	森の繁栄を願う者	ステラの欠片の出現率を+2％	One who wishes for prosperity of the forest	Stella's Fragment appearance rate+2%	希望森林繁榮的人	星辰碎片的出現率+2%	숲의 번영을 기원하는 자	스텔라 조각의 출현율 +2%	希望森林繁荣的人	星辰碎片的出現率+2%
+	生命の輝きを見る者	ステラの欠片の出現率を+2％	One who sees radiance of life	Stella's Fragment appearance rate+2%	看到生命的光芒的人	星辰碎片的出現率+2%	생명의 빛을 보는 자	스텔라 조각의 출현율 +2%	看到生命的光芒的人	星辰碎片的出現率+2%
+	自然を守る者	ステラの欠片の出現率を+2％	Protector of nature	Stella's Fragment appearance rate+2%	自然的保護者	星辰碎片的出現率+2%	자연의 수호자	스텔라 조각의 출현율 +2%	自然的保护者	星辰碎片的出現率+2%
+	自然界の法則	ステラの合成率+5％	Law of nature	Stella production rate +5%	自然的法則	星辰的合成率+5%	자연의 법칙	스텔라 합성률 +5%	自然的法则	星辰的合成率+5%
+	ユグドラシルの探求者	ステラの合成率+5％	Seeker of Yggdrasill	Stella production rate +5%	尋找Yggdrasil的人	星辰的合成率+5%	위그드라실의 탐구자	스텔라 합성률 +5%	寻找Yggdrasil的人	星辰的合成率+5%
+	ユグドラシルの夢想家	ステラの合成率+5％	Dreamer of Yggdrasill	Stella production rate +5%	Yggdrasil的夢想者	星辰的合成率+5%	위그드라실의 몽상가	스텔라 합성률 +5%	Yggdrasil的梦想者	星辰的合成率+5%
+	ユグドラシルの伝説	ステラの合成率+5％	Legend of Yggdrasill	Stella production rate +5%	Yggdrasil的傳說	星辰的合成率+5%	위그드라실의 전설	스텔라 합성률 +5%	Yggdrasil的传说	星辰的合成率+5%
+	ユグドラシルの覇者 	ステラの合成率+5％	Champion of Yggdrasill	Stella production rate +5%	Yggdrasil的冠軍	星辰的合成率+5%	위그드라실의 패자	스텔라 합성률 +5%	Yggdrasil的冠军	星辰的合成率+5%
+	ユグドラシルの救世主	ステラの合成率+5％	Savior of Yggdrasill	Stella production rate +5%	Yggdrasil的救世主	星辰的合成率+5%	위그드라실의 구세주	스텔라 합성률 +5%	Yggdrasil的救世主	星辰的合成率+5%
+	ユグドラシルの世界に身を置く者 	ステラの合成率+5％	Yggdrasill's Inhabitant	Stella production rate +5%	居住在Yggdrasil世界的人	星辰的合成率+5%	위그드라실의 세계에 몸을 담는 자	스텔라 합성률 +5%	居住在Yggdrasil世界的人	星辰的合成率+5%
+	聖霊と共に踊る者	ステラの合成率+5％	Spirit's Dancer	Stella production rate +5%	與神靈共舞的人	星辰的合成率+5%	성령과 함께 춤추는 자	스텔라 합성률 +5%	与神灵共舞的人	星辰的合成率+5%
+	終わりのない冒険者	ステラの合成率+5％	The Endless Adventurer	Stella production rate +5%	The Endless Adventurer	星辰的合成率+5%	끝없는 모험가	스텔라 합성률 +5%	The Endless Adventurer	星辰的合成率+5%
+	ユグドラシルの聖域	ステラの合成率+5％	Sanctuary of Yggdrasill	Stella production rate +5%	Yggdrasil的聖地	星辰的合成率+5%	위그드라실의 성역	스텔라 합성률 +5%	Yggdrasil的圣地	星辰的合成率+5%
+	ユグドラシルの永遠	ステラの合成率+5％	Eternity of Yggdrasill	Stella production rate +5%	Yggdrasil's Eternity（永恆）。	星辰的合成率+5%	위그드라실의 영원	스텔라 합성률 +5%	Yggdrasil's Eternity（永恒）。	星辰的合成率+5%
+	ユグドラシルの守護神	ステラの合成率+5％	Guardian of Yggdrasill	Stella production rate +5%	Yggdrasil的守護者	星辰的合成率+5%	위그드라실의 수호신	스텔라 합성률 +5%	Yggdrasil的守护者	星辰的合成率+5%
+	ユグドラシルの終焉を見届けた者	ステラの合成率+5％	The One Who Witnessed the End of Yggdrasill	Stella production rate +5%	見證了Yggdrasil的結束的人	星辰的合成率+5%	위그드라실의 종말을 지켜본 자	스텔라 합성률 +5%	见证了Yggdrasil的结束的人	星辰的合成率+5%
+	ユグドラシルの根源	ステラの合成率+5％    	The Roots of Yggdrasill	Stella production rate +5%	Yggdrasil的根部	星辰的合成率+5%	위그드라실의 근원	스텔라 합성률 +5%	Yggdrasil的根部	星辰的合成率+5%
+	ウロボロス	獲得した「ユグドラシルの種」1に付き、ステラの総合成率+1%	Ouroboros	Total production rate of Stella +1% for each Yggdrasill's Seed owned	銜尾蛇	每獲得1個世界樹的種子，星辰的合成效率+1	우로보로스	획득한「위그드라실의 씨앗」1개당 스텔라 총합성률 +1%	衔尾蛇	每获得1个世界树的种子，星辰的合成效率+1
+	ヨルムンガンドLv1	ヨルムンガンドが現れ、ステラの合成率を+1％	Jormungandr Lv1	Jormungandr appears, Stellar production rate +1%	耶夢加得Lv1	耶夢加得出现，星辰的合成效率+1%	요르문간드 Lv1	요르문간드가 등장하여 스텔라 합성률 +1%	耶梦加得Lv1	耶梦加得出现，星辰的合成效率+1%
+	ヨルムンガンドLv2	ステラの合成率をさらに+2％	Jormungandr Lv2	Stella production rate +2%	耶夢加得Lv2	星辰的合成效率+2%	요르문간드 Lv2	스텔라 합성률 추가 +2%	耶梦加得Lv2	星辰的合成效率+2%
+	ヨルムンガンドLv3	ステラの合成率をさらに+3％	Jormungandr Lv3	Stella production rate +3%	耶夢加得Lv3	星辰的合成效率+3%	요르문간드 Lv3	스텔라 합성률 추가 +3%	耶梦加得Lv3	星辰的合成效率+3%
+	ヨルムンガンドLv4	ステラの合成率をさらに+4％	Jormungandr Lv4	Stella production rate +4%	耶夢加得Lv4	星辰的合成效率+4%	요르문간드 Lv4	스텔라 합성률 추가 +4%	耶梦加得Lv4	星辰的合成效率+4%
+	ヨルムンガンドLv5	ステラの合成率をさらに+5％	Jormungandr Lv5	Stella production rate +5%	耶夢加得Lv5	星辰的合成效率+5%	요르문간드 Lv5	스텔라 합성률 추가 +5%	耶梦加得Lv5	星辰的合成效率+5%
+	労働者	クリックの効果を+10％	Worker	Click effect +10％	勞動者	點擊的效果+10%	일꾼	클릭 효과 +10%	劳动者	点击的效果+10%
+	予言者	クリックの効果をさらに+10％	The Prophet	Click effect +10％	預言者	點擊的效果再+10%	예언자	클릭 효과가 추가 +10%	预言者	点击的效果再+10%
+	創造主	クリックの効果をさらに+20％	Creator	Click effect +20％	創造者	點擊的效果再+20%	창조주	클릭 효과가 추가 +20%	创造者	点击的效果再+20%
+	ドヴェルグの雑貨屋	聖霊購入時の値段-3％	Dwarves' General Store	Price of Holy Spirit -3％	矮人的雜貨屋	聖靈的價格-3%	드베르그의 잡화점	성령 구매 시 가격 -3%	矮人的杂货屋	圣灵的价格-3%
+	ドヴェルグの商店	聖霊購入時の値段-3％	Dwarves' Market	Price of Holy Spirit -3％	矮人的商店	聖靈的價格-3%	드베르그의 상점	성령 구매 시 가격 -3%	矮人的商店	圣灵的价格-3%
+	ドヴェルグの商人ギルド	聖霊購入時の値段-4％	Dwarves' Merchants Guild	Price of Holy Spirit -4％	矮人的商人工會	聖靈的價格-4%	드베르그 상인 길드	성령 구매 시 가격 -4%	矮人的商人工会	圣灵的价格-4%
+	流れ星	ステラの欠片の出現率を+5％	Shooting Star	Stella's Fragment appearance rate+5%	流星	星辰碎片碎片的出现率+5%	유성	스텔라 조각 출현율 +5%	流星	星辰碎片碎片的出现率+5%
+	流れ惑星	ステラの欠片の出現率をさらに+5％	Shooting Comet	Stella's Fragment appearance rate+5%	流行星	星辰碎片碎片的出现率再+5%	흘러가는 행성	스텔라 조각 출현율 추가 +5%	流行星	星辰碎片碎片的出现率再+5%
+	青い鴉	ステラの欠片の出現率をさらに+5％	Blue Raven	Stella's Fragment appearance rate+5%	青色的烏鴉	星辰碎片碎片的出现率再+5%	푸른 까마귀	스텔라 조각 출현율 추가 +5%	青色的乌鸦	星辰碎片碎片的出现率再+5%
+	渡り橋	ビフレストの欠片の出現率+5％	The Crossing Bridge	Bifrost's Fragment appearance rate+5%	鏈接之橋	彩虹橋碎片的出现率+5%	이어지는 다리	비프로스트 출현율 +5%	链接之桥	彩虹桥碎片的出现率+5%
+	世界の果てへ	ビフレストの欠片の出現率をさらに+5％	To the End of the World	Bifrost's Fragment appearance rate+5%	世界的盡頭	彩虹橋碎片的出现率再+5%	세계의 끝으로	비프로스트 출현율 추가 +5%	世界的尽头	彩虹桥碎片的出现率再+5%
+	赤い鴉	ビフレストの欠片の出現率をさらに+5％	Red Raven	Bifrost's Fragment appearance rate+5%	赤色的烏鴉	彩虹橋碎片的出现率再+5%	붉은 까마귀	비프로스트 출현율 추가 +5%	赤色的乌鸦	彩虹桥碎片的出现率再+5%
+	イマは何時？	超越ワープの時間を+10分	What time is it now?	Transcendent Warp duration +10 minutes	現在幾點？	超級躍遷的時間+10%	지금 몇 시?	초월 워프의 시간 +10분	现在几点？	超级跃迁的时间+10%
+	これで間に合う？	特殊イベントの継続時間を+20％	Can you make it in time?	Special events duration +20%	還趕得上嗎？	特殊事件的持续时间+20%	콜라로 늦지 않을까요?	특수 이벤트 지속시간을 +20%	还赶得上吗？	特殊事件的持续时间+20%
+	手を貸そう	クリック時のステラ合成回数を+1	Let me help you	Stella produced by clicking +1	幫把手	每次點擊時合成星辰的次數+1	도와줄게	클릭 시 스텔라 합성 횟수 +1	帮把手	每次点击时合成星辰的次数+1
+	三本目だ	クリック時のステラ合成回数を+1	That's the third one.	Stella produced by clicking +1	第三隻	每次點擊時合成星辰的次數+1	세 번째다	클릭 시 스텔라 합성 횟수 +1	第三只	每次点击时合成星辰的次数+1
+	夜はこれから	ハティが現れる、18時から5時の間の「ワタリガラス」の合成率+50％	The night is just beginning	Hati appears, Raven's Stella production rate +50% from 6pm to 5am	夜 才開始	哈蒂出现，18:00至5:00之间渡鸦的合成率+50%	밤은 이제부터	하티가 출현하는 18시부터 5시 사이「도래하는 까마귀」합성률 +50%	夜 才开始	哈蒂出现，18:00至5:00之间渡鸦的合成率+50%
+	しごとの始まり	スコルが現れる、6時から17時の間の「世界樹の葉」の合成率+50％	The work begins.	Skoll appears, Yggdrasill Leaf's Stella production rate +50% from 6am to 5pm	開始幹活	斯科尔出现，早上6点到下午5点之间，'世界之樹的葉子'的合成率+50%	일의 시작	스콜이 출현하는 6시부터 17시 사이「위그드라실의 잎사귀」합성률 +50%	开始干活	斯科尔出现，早上6点到下午5点之间，'世界之树的叶子'的合成率+50%
+	二対の狼	すべての聖霊の合成率を+10％	Pairs of wolves	All Holy Spirit's Stella production rate +10%	對稱的狼	所有圣灵的合成率+10%	두 쌍의 늑대	모든 성령의 합성률 +10%	对称的狼	所有圣灵的合成率+10%
+	繁栄の証	聖霊が100レベルに付き総合成率+0.1％	Proof of prosperity	Stella production rate +0.1% per 100 levels of Holy Spirit	榮譽之證	每100级圣灵的合成率+0.1%	번영의 증표	성령이 100레벨당 총 합성량 0.1%	荣誉之证	每100级圣灵的合成率+0.1%
+	神の力	「グングニル」が使えるようになる、30秒の間、ステラの合成率+500％	Power of God	Unlock Gungir, Stella production rate +500% for 30 seconds when activated	神之力	永恆之矛將可以使用，星辰的合成率+500%，持续30秒	신의 힘	「궁니르」를 사용할 수 있게 되며, 30초 동안 스텔라 합성률 +500%	神之力	永恒之矛将可以使用，星辰的合成率+500%，持续30秒
+	落下する速度	「グングニル」の使用間隔を-5％	Falling Speed	Gungnir cooldown -5%.	下落的速度	永恆之矛的使用間隔-5%	낙하 속도	「궁니르」쿨타임 -5%	下落的速度	永恒之矛的使用间隔-5%
+	落下する速度+	「グングニル」の使用間隔をさらに-5％	Falling Speed+	Gungnir cooldown -5%.	下落的速度+	永恆之矛的使用間隔再-5%	낙하 속도+	「궁니르」쿨타임 추가 -5%	下落的速度+	永恒之矛的使用间隔再-5%
+	落下する速度++	「グングニル」の使用間隔をさらに-10％	Falling Speed++	Gungnir cooldown -10%.	下落的速度++	永恆之矛的使用間隔再-10%	낙하 속도 ++	「궁니르」쿨타임 추가 -10%	下落的速度++	永恒之矛的使用间隔再-10%
+	光る長さ	「グングニル」の継続時間+5秒	Glowing Length	Gungnir duration +5 seconds.	光的長度	永恆之矛的持續時間+5秒	빛나는 길이	「궁니르」지속시간 +5초	光的长度	永恒之矛的持续时间+5秒
+	光る長さ+	「グングニル」の継続時間さらに+5秒	Glowing Length+	Gungnir duration +5 seconds.	光的長度+	永恆之矛的持續時間再+5秒	빛나는 길이+	「궁니르」지속시간 추가 +5초	光的长度+	永恒之矛的持续时间再+5秒
+	光る長さ++	「グングニル」の継続時間さらに+10秒	Glowing Length++	Gungnir duration +10 seconds.	光的長度++	永恆之矛的持續時間再+10秒	빛나는 길이++	「궁니르」지속시간 추가 +10초	光的长度++	永恒之矛的持续时间再+10秒
+	光る長さ+++	「グングニル」の継続時間さらに+10秒	Glowing Length+++	Gungnir duration +10 seconds.	光的長度+++	永恆之矛的持續時間再+10秒	빛나는 길이+++	「궁니르」지속시간 추가 +10초	光的长度+++	永恒之矛的持续时间再+10秒
+	倍率こそスピード	「グングニル」発動時、ステラの合成率を+100％	Scaling is Speed	When Gungnir is activated, Stella production rate +100%.	倍率才是真理	永恆之矛發動時，星辰的合成率+100%	배율이야말로 속도	「궁니르」발동 시, 스텔라 합성률 +100%	倍率才是真理	永恒之矛发动时，星辰的合成率+100%
+	倍率こそスピード+	「グングニル」発動時、ステラの合成率をさらに+100％	Scaling is Speed+	When Gungnir is activated, Stella production rate +100%.	倍率才是真理+	永恆之矛發動時，星辰的合成率再+100%	배율이야말로 속도+	「궁니르」발동 시, 스텔라 합성률이 추가 +100%	倍率才是真理+	永恒之矛发动时，星辰的合成率再+100%
+	倍率こそスピード++	「グングニル」発動時、ステラの合成率をさらに+100％	Scaling is Speed++	When Gungnir is activated, Stella production rate +100%.	倍率才是真理++	永恆之矛發動時，星辰的合成率再+100%	배율이야말로 속도++	「궁니르」발동 시, 스텔라 합성률이 +100%	倍率才是真理++	永恒之矛发动时，星辰的合成率再+100%
+	頭が復活した！	「ミーミルの知恵」が使えるようになる、1分間の間、クリックが自動で行う	The head is back!	Unlock The Wisdom of Mimir, clicks automatically for 1 minute when activated	頭！復活了！？	米米尔的智慧將可以使用，鼠標將自動點擊，持續1分鐘	머리가 부활했다!	「미미르의 지혜」를 사용할 수 있게 되며, 1분 동안 클릭이 자동으로 이루어집니다.	头！复活了！ ？	米米尔的智慧将可以使用，鼠标将自动点击，持续1分钟
+	知識こそバワー	「ミーミルの知恵」の継続時間を＋15秒	Knowledge is Power	The Wisdom of Mimir duration +15 seconds.	知識就是力量	米米尔的智慧的持续时间+15秒	아는 것이 힘이다	「미미르의 지혜」지속시간 +15초	知识就是力量	米米尔的智慧的持续时间+15秒
+	知識こそバワー+	「ミーミルの知恵」の継続時間をさらに＋15秒	Knowledge is Power+	The Wisdom of Mimir duration +15 seconds.	知識就是力量+	米米尔的智慧的持续时间再+15秒	아는 것이 힘이다+	「미미르의 지혜」지속시간 추가 +15초	知识就是力量+	米米尔的智慧的持续时间再+15秒
+	知識こそバワー++	「ミーミルの知恵」の継続時間をさらに＋30秒	Knowledge is Power++	The Wisdom of Mimir duration +30 seconds.	知識就是力量++	米米尔的智慧再+30秒	아는 것이 힘이다++	「미미르의 지혜」지속시간 추가 +30초	知识就是力量++	米米尔的智慧再+30秒
+	肥料購入	生命の実が2時間早く成熟する	Buy Fertilizer	Fruit of Life matures 2 hours sooner	買入肥料	生命之果提前2小时成熟	비료 구매	생명의 열매가 2시간 더 빨리 익는다.	买入肥料	生命之果提前2小时成熟
+	栄養素	生命の実がさらに2時間早く成熟する	Nutrients	Fruit of Life matures 2 hours sooner	營養素	生命之果再提前2小时成熟	영양소	생명의 열매가 2시간 더 빨리 익는다.	营养素	生命之果再提前2小时成熟
+	木の壺	ゲームが閉じている間、累計2時間ステラを合成し続ける	Wooden Pot	Keep producing Stella up to 2 hours after the game is closed.	木之壺	在游戏关闭後星辰還將繼續合成2個小時	나무 항아리	게임을 종료해도 2시간 동안 스텔라 합성을 지속	木之壶	在游戏关闭后星辰还将继续合成2个小时
+	銅の壺	ゲームを閉じている間、ステラの合成時間が2倍になる	Copper Pot	Keep producing Stella up to 4 hours after the game is closed.	銅之壺	在游戏关闭和星辰的合成時間翻倍	구리 항아리	게임 종료 시의 스텔라 합성 지속시간을 2배 증가	铜之壶	在游戏关闭和星辰的合成时间翻倍
+	銀の壺	ゲームを閉じている間、ステラの合成時間が2倍になる	Silver Pot	Keep producing Stella up to 8 hours after the game is closed.	銀之壺	在游戏关闭和星辰的合成時間翻倍	은 항아리	게임 종료 시의 스텔라 합성 지속시간을 2배 증가	银之壶	在游戏关闭和星辰的合成时间翻倍
+	金の壺	ゲームを閉じている間、ステラの合成時間が2倍になる	Gold Pot	Keep producing Stella up to 16 hours after the game is closed.	金之壺	在游戏关闭和星辰的合成時間翻倍	금 항아리	게임 종료 시의 스텔라 합성 지속시간을 2배 증가	金之壶	在游戏关闭和星辰的合成时间翻倍
+	白金の壺	ゲームを閉じている間、ステラの合成時間が2倍になる	Platinum Pot	Keep producing Stella up to 32 hours after the game is closed.	白金之壺	在游戏关闭和星辰的合成時間翻倍	백금 항아리	게임 종료 시의 스텔라 합성 지속시간을 2배 증가	白金之壶	在游戏关闭和星辰的合成时间翻倍
+	現れる悪狼	フェンリル現れる、聖霊が100レベルに付き総合成率+1％	Appearance of bad wolf	Fenrir appears, Stella production rate +1% per 100 levels of Holy Spirit	現世的惡狼	芬里尔出现，聖靈每100级合成率+1%	악명높은 늑대 두둥등장	펜리르이 출현, 성령의 레벨이 100레벨 증가할 때마다 총합성율 +1%	现世的恶狼	芬里尔出现，圣灵每100级合成率+1%
+	誰の手？	クリック時のステラ合成回数を+1	Whose hand is it?	Stella produced by clicking +1	這是誰的手？	每次點擊時合成星辰的次數+1	누구의 손?	클릭 시 스텔라 합성 횟수 +1	这是谁的手？	每次点击时合成星辰的次数+1
+	ギャァァァ	タングリスニが現れる、ステラの欠片とビフレストの欠片の表示時間を+15％	Gaaaah!	Tanngrisnir appears, Stella's Fragment and Bifrost's Fragment stays 15% longer on screen.	吾啊啊啊啊啊	坦格里斯尼爾出现，星辰碎片和彩虹橋碎片的顯示时间+15%	갸아아아!	탕그리스니르가 출현, 스텔라 조각과 비프로스트 조각의 표시 시간 추가 +15%	吾啊啊啊啊啊	坦格里斯尼尔出现，星辰碎片和彩虹桥碎片的显示时间+15%
+	グヤァァァァ	タングニョーストが現れる、ステラの欠片とビフレストの欠片の表示時間をさらに+15％	Guyaaah!	Tanngnjostr appears, Stella's Fragment and Bifrost's Fragment stays 15% longer on screen.	噶蛤蛤蛤蛤蛤蛤	坦格喬斯特出现，星辰碎片和彩虹橋碎片的顯示时间再+15%	갸아아아아!	탕그뇨스트가 출현, 스텔라 조각과 비프로스트 조각의 표시 시간 추가 +15%	噶蛤蛤蛤蛤蛤蛤	坦格乔斯特出现，星辰碎片和彩虹桥碎片的显示时间再+15%
+	見逃さない注意力	ステラの欠片とビフレストの欠片の表示時間をさらに+20％	Breathless Focus	Stella's Fragment and Bifrost's Fragment stays 20% longer on screen.	屏息的注意力	星辰碎片和彩虹橋碎片的顯示时间再+20%	놓치지 않는 주의력	스텔라 조각과 비프로스트 조각의 출현 시간 추가 +20%	屏息的注意力	星辰碎片和彩虹桥碎片的显示时间再+20%
+	塵も積もれば山となる	聖霊の合成速度2％早くなる　	Every little bit counts	Production speed of Holy Spirit +2% *(9.8 seconds)	積少成多	圣灵的合成速度加快2%	티끌 모아 태산	성령의 합성 속도가 2% 빨라짐	积少成多	圣灵的合成速度加快2%
+	塵も積もれば山となる+	聖霊の合成速度さらに2％早くなる	Every little bit counts+	Production speed of Holy Spirit +2%* (9.6 seconds)	積少成多+	圣灵的合成速度再加快2%	티끌 모아 태산+	성령의 합성 속도가 2% 더 빨라짐	积少成多+	圣灵的合成速度再加快2%
+	塵も積もれば山となる++	聖霊の合成速度さらに2％早くなる	Every little bit counts++	Production speed of Holy Spirit +2%* (9.4 sec.)	積少成多++	圣灵的合成速度再加快2%	티끌 모아 태산++	성령의 합성 속도가 2% 더 빨라짐	积少成多++	圣灵的合成速度再加快2%
+	塵も積もれば山となる+++	聖霊の合成速度さらに2％早くなる	Every little bit counts+++	Production speed of Holy Spirit +2%* (9.2 sec.)	積少成多+++	圣灵的合成速度再加快2%	티끌 모아 태산+++	성령의 합성 속도가 2% 더 빨라짐	积少成多+++	圣灵的合成速度再加快2%
+	塵も積もれば山となる++++	聖霊の合成速度さらに2％早くなる	Every little bit counts++++	Production speed of Holy Spirit +2%* (9 seconds)	積少成多++++	圣灵的合成速度再加快2%	티끌 모아 태산++++	성령의 합성 속도가 2% 더 빨라짐	积少成多++++	圣灵的合成速度再加快2%
+	塵も積もれば山となる+++++	聖霊の合成速度さらに2％早くなる	Every little bit counts+++++	Production speed of Holy Spirit +2%* (8.8 sec.)	積少成多+++++	圣灵的合成速度再加快2%	티끌 모아 태산+++++	성령의 합성 속도가 2% 더 빨라짐	积少成多+++++	圣灵的合成速度再加快2%
+	塵も積もれば山となる++++++	聖霊の合成速度さらに2％早くなる	Every little bit counts++++++	Production speed of Holy Spirit +2%* (8.6 sec.)	積少成多++++++	圣灵的合成速度再加快2%	티끌 모아 태산++++++	성령의 합성 속도가 2% 더 빨라짐	积少成多++++++	圣灵的合成速度再加快2%
+	塵も積もれば山となる+++++++	聖霊の合成速度さらに2％早くなる	Every little bit counts+++++++	Production speed of Holy Spirit +2%* (8.4 sec.)	積少成多+++++++	圣灵的合成速度再加快2%	티끌 모아 태산+++++++	성령의 합성 속도가 2% 더 빨라짐	积少成多+++++++	圣灵的合成速度再加快2%
+	塵も積もれば山となる++++++++	聖霊の合成速度さらに2％早くなる	Every little bit counts++++++++	Production speed of Holy Spirit +2%* (8.2 sec.)	積少成多++++++++	圣灵的合成速度再加快2%	티끌 모아 태산++++++++	성령의 합성 속도가 2% 더 빨라짐	积少成多++++++++	圣灵的合成速度再加快2%
+	石の上にも三年	聖霊の合成速度さらに2％早くなる	Perseverance will win in the end	Production speed of Holy Spirit +2% * (8 seconds)	三年磨一劍	圣灵的合成速度再加快2%	돌 위에도 삼 년	성령의 합성 속도가 2% 더 빨라짐	三年磨一剑	圣灵的合成速度再加快2%
+	商人法則	聖霊購入時の値段-5％	Merchant's law	Price of Holy Spirit -5%	商人法則	聖靈的價格-5%	상인의 법칙	성령 구매 시 가격 -5%	商人法则	圣灵的价格-5%
+	値引きの達人	聖霊購入時の値段-5％	Master of bargaining	Price of Holy Spirit -5%	砍價達人	聖靈的價格-5%	협상의 달인	성령 구매 시 가격 -5%	砍价达人	圣灵的价格-5%
+	知識の宝物庫	「ミーミルの知恵」の使用間隔を-10％	Treasury of Knowledge	The Wisdom of Mimir cooldown -10%	知識的寶庫	米米尔的智慧 的间使用間隔-10%	지식의 보물창고	「미미르의 지혜」쿨타임 -10%	知识的宝库	米米尔的智慧 的间使用间隔-10%
+	知識の宝物庫+	「ミーミルの知恵」の使用間隔をさらに-10％	Treasury of Knowledge+	The Wisdom of Mimir cooldown -10%	知識的寶庫+	米米尔的智慧 的间使用間隔再-10%	지식의 보물창고+	「미미르의 지혜」쿨타임 추가 -10%	知识的宝库+	米米尔的智慧 的间使用间隔再-10%
+	知識の宝物庫++	「ミーミルの知恵」の使用間隔をさらに-20％	Treasury of Knowledge++	The Wisdom of Mimir cooldown -20%	知識的寶庫++	米米尔的智慧 的间使用間隔再-20%	지식의 보물창고++	「미미르의 지혜」쿨타임 추가 -20%	知识的宝库++	米米尔的智慧 的间使用间隔再-20%
+	ヴァルハラのコレクション	女神のギャラリー機能が解除されます。所持する女神の肖像画を1枚に付き、ステラの合成率を+25％	Collections of Valhalla	Unlock Goddess Gallery.Stella production rate +25% for each portraits of the goddesses you have	女神的畫廊	開放女神的畫廊功能，每擁有一幅女神的肖像畫，星辰的合成率+25%	여신의 갤러리	여신 갤러리 잠금 해제，보유하고 있는 여신 초상화 1개당 스텔라 생성률 +25%	女神的画廊	开放女神的画廊功能，每拥有一幅女神的肖像画，星辰的合成率+25%

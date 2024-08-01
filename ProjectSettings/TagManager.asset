@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - MainSprite
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3035432753
+    locked: 0
+  - name: Bg
+    uniqueID: 2606567259
+    locked: 0
+  - name: Tree
+    uniqueID: 3928428333
+    locked: 0
+  - name: Leaf
+    uniqueID: 1708553577
+    locked: 0
+  - name: MainTap
+    uniqueID: 3238911293
+    locked: 0
+  - name: FragmentStella
+    uniqueID: 2564771649
+    locked: 0
+  - name: ShardBiforest
+    uniqueID: 1387054467
+    locked: 0
+  - name: FrontCloud
+    uniqueID: 3676647161
+    locked: 0
+  - name: Particle
+    uniqueID: 1128095971
+    locked: 0
+  - name: UI
+    uniqueID: 3917389905
+    locked: 0
+  - name: SeedBg
+    uniqueID: 2152110109
+    locked: 0
+  - name: SeedParticle
+    uniqueID: 738991411
+    locked: 0
+  - name: SeedImage
+    uniqueID: 1670858189
+    locked: 0
+  - name: SeedUI
+    uniqueID: 2381983013
+    locked: 0
+  - name: FrontUI
+    uniqueID: 942610203
+    locked: 0
